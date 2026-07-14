@@ -1,29 +1,34 @@
 #!/usr/bin/env python3
-"""Scrape today's holidays from nationaltoday.com and write data.json + index.html."""
+"""Scrape holidays for yesterday/today/tomorrow and write data + index.html."""
 
 from __future__ import annotations
 
 import html
 import json
-from datetime import date, datetime, timezone
+import time
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://nationaltoday.com/today/"
 USER_AGENT = "MyHolidayBot/1.0 (personal project; local+github-actions)"
 ROOT = Path(__file__).resolve().parent
+DATA_DIR = ROOT / "data"
 
 
-def scrape_holidays() -> list[dict]:
-    resp = requests.get(URL, headers={"User-Agent": USER_AGENT}, timeout=30)
+def date_url(d: date) -> str:
+    return f"https://nationaltoday.com/{d.strftime('%B').lower()}-{d.day}/"
+
+
+def scrape_day(d: date) -> dict:
+    url = date_url(d)
+    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=30)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
-    today = date.today()
-    weekday = today.strftime("%a").upper()
-    month_day = today.strftime("%b %d").upper().replace(" 0", " ")
+    weekday = d.strftime("%a").upper()
+    month_day = d.strftime("%b %d").upper().replace(" 0", " ")
 
     holidays: list[dict] = []
     for card in soup.select(".card-holiday"):
@@ -33,8 +38,9 @@ def scrape_holidays() -> list[dict]:
 
         month_el = card.select_one(".ntdb-holiday-day")
         day_el = card.select_one(".ntdb-holiday-date")
+        card_month_day = month_day
         if month_el and day_el:
-            month_day = f"{month_el.get_text(strip=True)} {day_el.get_text(strip=True)}".upper()
+            card_month_day = f"{month_el.get_text(strip=True)} {day_el.get_text(strip=True)}".upper()
 
         name = title_el.get_text(strip=True) if title_el else None
         href = link.get("href") if link else None
@@ -49,28 +55,46 @@ def scrape_holidays() -> list[dict]:
                     "url": href,
                     "image": image,
                     "weekday": weekday,
-                    "month_day": month_day,
+                    "month_day": card_month_day,
                 }
             )
 
-    return holidays
+    return {
+        "date": d.isoformat(),
+        "label": d.strftime("%A, %B %d, %Y").replace(" 0", " "),
+        "weekday": weekday,
+        "month_day": month_day,
+        "source": url,
+        "count": len(holidays),
+        "holidays": holidays,
+    }
 
 
-def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
-    data_json = json.dumps(holidays)
-    max_count = max(len(holidays), 1)
+def render_html(bundle: dict) -> str:
+    data_json = json.dumps(bundle)
+    today_key = bundle["today"]
+    max_count = max((len(day["holidays"]) for day in bundle["days"].values()), default=1)
+
     options = []
     for n in range(1, max_count + 1):
         selected = " selected" if n == min(5, max_count) else ""
         options.append(f'<option value="{n}"{selected}>{n}</option>')
     options_html = "\n          ".join(options)
 
+    prefetch_links = []
+    for key in bundle["days"]:
+        prefetch_links.append(
+            f'  <link rel="prefetch" href="data/{html.escape(key)}.json" as="fetch" crossorigin>'
+        )
+    prefetch_html = "\n".join(prefetch_links)
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Today's Holidays — {html.escape(day_label)}</title>
+  <title>Ad Free National Today</title>
+{prefetch_html}
   <style>
     :root {{
       --red: #e31c23;
@@ -87,18 +111,41 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       font-family: Arial, Helvetica, sans-serif;
       min-height: 100vh;
     }}
+    .site-brand {{
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 1.75rem 1.25rem 0;
+    }}
+    .site-brand h1 {{
+      margin: 0;
+      font-size: clamp(1.6rem, 3.5vw, 2.1rem);
+      font-weight: 800;
+      color: var(--teal);
+      letter-spacing: -0.02em;
+      display: inline-flex;
+      align-items: baseline;
+      gap: 0.5rem;
+    }}
+    .site-brand .no-ads {{
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--red);
+      line-height: 1;
+    }}
     header {{
       max-width: 1120px;
       margin: 0 auto;
-      padding: 2rem 1.25rem 0.75rem;
+      padding: 1rem 1.25rem 0.75rem;
       display: flex;
       align-items: flex-start;
       justify-content: space-between;
       gap: 1rem;
     }}
-    .header-text h1 {{
+    .header-text h2 {{
       margin: 0 0 0.25rem;
-      font-size: 1.75rem;
+      font-size: 1.35rem;
       font-weight: 700;
     }}
     .header-text p {{
@@ -106,12 +153,18 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       color: var(--muted);
       font-size: 0.9rem;
     }}
+    .header-controls {{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      gap: 0.75rem;
+      flex-shrink: 0;
+    }}
     .count-picker {{
       display: flex;
       flex-direction: column;
       align-items: flex-end;
       gap: 0.35rem;
-      flex-shrink: 0;
     }}
     .count-picker label {{
       font-size: 0.75rem;
@@ -127,14 +180,66 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       color: var(--ink);
       border: 2px solid #ddd;
       border-radius: 8px;
-      padding: 0.4rem 0.65rem;
-      background: #fff;
+      padding: 0.4rem 2rem 0.4rem 0.65rem;
+      background-color: #fff;
+      background-image: url("assets/arrow-down.png");
+      background-repeat: no-repeat;
+      background-position: right 0.55rem center;
+      background-size: 10px 10px;
       cursor: pointer;
       min-width: 4.5rem;
+      appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
     }}
     .count-picker select:focus {{
       outline: 2px solid var(--teal);
       outline-offset: 2px;
+    }}
+    .date-nav {{
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0.25rem 1.25rem 0.75rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.85rem;
+    }}
+    .date-nav button {{
+      font: inherit;
+      font-size: 0.9rem;
+      font-weight: 700;
+      border: 2px solid var(--teal);
+      color: var(--teal);
+      background: #fff;
+      padding: 0.4rem 0.75rem;
+      cursor: pointer;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+    }}
+    .date-nav button img {{
+      width: 14px;
+      height: 14px;
+      display: block;
+    }}
+    .date-nav button:hover:not(:disabled) {{
+      background: var(--teal);
+      color: #fff;
+    }}
+    .date-nav button:hover:not(:disabled) img {{
+      filter: brightness(0) invert(1);
+    }}
+    .date-nav button:disabled {{
+      opacity: 0.35;
+      cursor: not-allowed;
+    }}
+    .date-nav-label {{
+      min-width: 10rem;
+      text-align: center;
+      font-weight: 800;
+      letter-spacing: 0.02em;
     }}
     .featured-wrap {{
       max-width: 1120px;
@@ -152,7 +257,7 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       display: none;
       position: relative;
       min-height: 280px;
-      padding: 1.25rem 1.5rem 3.5rem;
+      padding: 1.25rem 1.5rem;
       background-size: cover;
       background-position: center;
       text-decoration: none;
@@ -219,45 +324,31 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       line-height: 1.15;
       text-shadow: 0 2px 12px rgba(0,0,0,0.35);
     }}
-    .featured-nav {{
-      position: absolute;
-      z-index: 2;
-      bottom: 1rem;
-      width: 2rem;
-      height: 2rem;
-      border: none;
-      border-radius: 50%;
-      background: #fff;
-      color: var(--teal);
-      font-size: 1.35rem;
-      line-height: 1;
-      cursor: pointer;
-      display: none;
-      place-items: center;
-      padding: 0 0 0.1rem;
-    }}
-    .featured-nav.is-visible {{ display: grid; }}
-    .featured-nav.prev {{ left: 1.25rem; }}
-    .featured-nav.next {{ right: 1.25rem; }}
-    .featured-nav:hover {{ background: #f3f3f3; }}
     .grid {{
       max-width: 1120px;
       margin: 0 auto;
       padding: 0.25rem 1.25rem 0.5rem;
       display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1.5rem 1.25rem;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem 0.9rem;
+    }}
+    @media (max-width: 800px) {{
+      .grid {{ grid-template-columns: repeat(2, 1fr); }}
     }}
     @media (max-width: 520px) {{
-      .grid {{ grid-template-columns: 1fr; }}
+      .grid {{ grid-template-columns: repeat(2, 1fr); }}
       .featured {{ min-height: 220px; }}
       .featured-slide {{ min-height: 220px; }}
       header {{ flex-direction: column; }}
-      .count-picker {{ align-items: flex-start; }}
+      .header-controls, .count-picker {{ align-items: flex-start; }}
     }}
     .card {{
-      display: block;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
       min-width: 0;
+      text-decoration: none;
+      color: inherit;
     }}
     .card-media {{
       position: relative;
@@ -266,8 +357,6 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       aspect-ratio: 1;
       overflow: hidden;
       background: #ddd;
-      text-decoration: none;
-      color: #fff;
     }}
     .card-media img,
     .placeholder {{
@@ -277,7 +366,8 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       display: block;
       transition: transform 0.25s ease;
     }}
-    .card-media:hover img {{
+    .card:hover .card-media img,
+    .card:focus-visible .card-media img {{
       transform: scale(1.04);
     }}
     .date-badge {{
@@ -292,28 +382,43 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       text-align: center;
       min-width: 3.4rem;
     }}
-    .card-title {{
+    .card-title-overlay {{
       position: absolute;
       z-index: 2;
       left: 0;
       right: 0;
       bottom: 0;
       margin: 0;
-      padding: 2.5rem 0.85rem 0.9rem;
-      font-size: 1.05rem;
+      padding: 1.75rem 0.55rem 0.55rem;
+      font-size: 0.85rem;
       font-weight: 700;
-      line-height: 1.25;
+      line-height: 1.2;
       color: #fff;
       background: linear-gradient(transparent, rgba(0,0,0,0.72));
       opacity: 0;
-      transform: translateY(6px);
-      transition: opacity 0.2s ease, transform 0.2s ease;
+      transform: translateY(10px);
+      transition: opacity 0.25s ease, transform 0.25s ease;
       pointer-events: none;
     }}
-    .card-media:hover .card-title,
-    .card-media:focus-visible .card-title {{
+    .card-title-under {{
+      display: block;
+      margin: 0;
+      min-height: 2.4em;
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--teal);
+      transition: opacity 0.25s ease, transform 0.25s ease;
+    }}
+    .card:hover .card-title-overlay,
+    .card:focus-visible .card-title-overlay {{
       opacity: 1;
       transform: translateY(0);
+    }}
+    .card:hover .card-title-under,
+    .card:focus-visible .card-title-under {{
+      opacity: 0.15;
+      transform: translateY(-6px);
     }}
     .see-more-wrap {{
       max-width: 1120px;
@@ -323,20 +428,35 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
       justify-content: flex-end;
     }}
     .see-more {{
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
       border: 2px solid var(--teal);
       color: var(--teal);
       background: transparent;
       padding: 0.55rem 1rem;
+      font: inherit;
       font-size: 0.85rem;
       font-weight: 700;
       letter-spacing: 0.04em;
       text-decoration: none;
       text-transform: uppercase;
+      cursor: pointer;
+    }}
+    .see-more img {{
+      width: 12px;
+      height: 12px;
+      display: block;
     }}
     .see-more:hover {{
       background: var(--teal);
       color: #fff;
+    }}
+    .see-more:hover img {{
+      filter: brightness(0) invert(1);
+    }}
+    .see-more-wrap.is-hidden {{
+      display: none;
     }}
     footer {{
       max-width: 1120px;
@@ -349,49 +469,169 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
     .empty {{ grid-column: 1 / -1; color: var(--muted); }}
     .featured-wrap.is-hidden,
     .grid.is-hidden {{ display: none; }}
+    .modal {{
+      position: fixed;
+      inset: 0;
+      z-index: 50;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(0,0,0,0.45);
+    }}
+    .modal.is-open {{ display: flex; }}
+    .modal-card {{
+      background: #fff;
+      border-radius: 16px;
+      max-width: 22rem;
+      width: 100%;
+      padding: 1.5rem 1.35rem 1.25rem;
+      text-align: center;
+      box-shadow: 0 16px 40px rgba(0,0,0,0.18);
+    }}
+    .modal-card.welcome {{
+      max-width: 26rem;
+    }}
+    .modal-emoji {{
+      font-size: 2.4rem;
+      line-height: 1;
+      margin-bottom: 0.5rem;
+    }}
+    .modal-card h2 {{
+      margin: 0 0 0.5rem;
+      font-size: 1.2rem;
+    }}
+    .modal-card p {{
+      margin: 0 0 0.85rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.45;
+    }}
+    .modal-card p:last-of-type {{
+      margin-bottom: 1.15rem;
+    }}
+    .modal-actions {{
+      display: flex;
+      gap: 0.6rem;
+      justify-content: center;
+    }}
+    .modal-actions button {{
+      font: inherit;
+      font-weight: 700;
+      border-radius: 8px;
+      padding: 0.55rem 0.9rem;
+      cursor: pointer;
+      border: 2px solid #ddd;
+      background: #fff;
+    }}
+    .modal-actions .confirm {{
+      border-color: var(--teal);
+      background: var(--teal);
+      color: #fff;
+    }}
+    .modal-actions .confirm.danger {{
+      border-color: var(--red);
+      background: var(--red);
+    }}
   </style>
 </head>
 <body>
+  <div class="site-brand">
+    <h1>
+      National Today
+      <span class="no-ads">no ads</span>
+    </h1>
+  </div>
   <header>
     <div class="header-text">
-      <h1>Today's Holidays</h1>
-      <p>{html.escape(day_label)} · updated {html.escape(scraped_at)}</p>
+      <h2 id="page-title">Today's Holidays</h2>
+      <p id="page-sub"></p>
     </div>
-    <div class="count-picker">
-      <label for="count">Show</label>
-      <select id="count" aria-label="How many holidays to show">
+    <div class="header-controls">
+      <div class="count-picker">
+        <label for="count">Show</label>
+        <select id="count" aria-label="How many holidays to show">
           {options_html}
-      </select>
+        </select>
+      </div>
     </div>
   </header>
+  <nav class="date-nav" aria-label="Date">
+    <button type="button" id="prev-day">
+      <img src="assets/arrow-left.png" alt="" width="14" height="14">
+      Prev day
+    </button>
+    <div class="date-nav-label" id="date-label"></div>
+    <button type="button" id="next-day">
+      Next day
+      <img src="assets/arrow-right.png" alt="" width="14" height="14">
+    </button>
+  </nav>
   <section class="featured-wrap" id="featured-wrap" aria-label="Featured today">
-    <div class="featured" id="featured">
-      <button class="featured-nav prev" type="button" aria-label="Previous">&#8249;</button>
-      <button class="featured-nav next" type="button" aria-label="Next">&#8250;</button>
-    </div>
+    <div class="featured" id="featured"></div>
   </section>
   <main class="grid" id="grid"></main>
-  <div class="see-more-wrap">
-    <a class="see-more" href="https://nationaltoday.com/today/" target="_blank" rel="noopener noreferrer">See More &gt;</a>
+  <div class="see-more-wrap" id="see-more-wrap">
+    <button type="button" class="see-more" id="see-more">
+      See More
+      <img src="assets/arrow-right.png" alt="" width="12" height="12">
+    </button>
   </div>
   <footer>
     Data sourced from
-    <a href="https://nationaltoday.com/today/" target="_blank" rel="noopener noreferrer">National Today</a>
-    (names, images, and links only — not article text).
+    <a href="https://nationaltoday.com/today/" target="_blank" rel="noopener noreferrer">National Today</a>.
   </footer>
+  <div class="modal" id="spoil-modal" role="dialog" aria-modal="true" aria-labelledby="spoil-title">
+    <div class="modal-card">
+      <div class="modal-emoji" aria-hidden="true">🤫</div>
+      <h2 id="spoil-title">Spoil tomorrow?</h2>
+      <p>Are you sure you want to spoil the next day?</p>
+      <div class="modal-actions">
+        <button type="button" id="spoil-cancel">Keep it secret</button>
+        <button type="button" class="confirm danger" id="spoil-confirm">Yes, spoil me</button>
+      </div>
+    </div>
+  </div>
+  <div class="modal" id="welcome-modal" role="dialog" aria-modal="true" aria-labelledby="welcome-title" hidden>
+    <div class="modal-card welcome">
+      <div class="modal-emoji" aria-hidden="true">😌</div>
+      <h2 id="welcome-title">Welcome to Ad Free National Today</h2>
+      <p>National Today is packed with ads and a hundred holidays fighting for attention.</p>
+      <p>This is the chill version, just the days that matter, no ads. Much more relaxing. 🌿</p>
+      <div class="modal-actions">
+        <button type="button" class="confirm" id="welcome-ok">Take me to today's</button>
+      </div>
+    </div>
+  </div>
   <script>
     (function () {{
-      var ALL = {data_json};
+      var BUNDLE = {data_json};
       var DEFAULT = 5;
       var KEY = "holidayCount";
+      var VIEW_KEY = "holidayViewDate";
+      var todayKey = BUNDLE.today;
+      var dates = BUNDLE.order.slice();
+      var cache = Object.assign({{}}, BUNDLE.days);
+      var currentKey = todayKey;
+
       var featuredRoot = document.getElementById("featured");
       var featuredWrap = document.getElementById("featured-wrap");
       var grid = document.getElementById("grid");
       var select = document.getElementById("count");
-      var prevBtn = featuredRoot.querySelector(".prev");
-      var nextBtn = featuredRoot.querySelector(".next");
-      var featuredIndex = 0;
-      var visible = [];
+      var pageTitle = document.getElementById("page-title");
+      var pageSub = document.getElementById("page-sub");
+      var dateLabel = document.getElementById("date-label");
+      var prevBtn = document.getElementById("prev-day");
+      var nextBtn = document.getElementById("next-day");
+      var seeMore = document.getElementById("see-more");
+      var seeMoreWrap = document.getElementById("see-more-wrap");
+      var modal = document.getElementById("spoil-modal");
+      var spoilCancel = document.getElementById("spoil-cancel");
+      var spoilConfirm = document.getElementById("spoil-confirm");
+      var welcomeModal = document.getElementById("welcome-modal");
+      var welcomeOk = document.getElementById("welcome-ok");
+      var STEP = 5;
+      var WELCOME_COOKIE = "adFreeNtWelcome";
 
       function esc(s) {{
         return String(s == null ? "" : s)
@@ -401,15 +641,46 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
           .replace(/"/g, "&quot;");
       }}
 
-      function getCount() {{
+      function dayIndex(key) {{
+        return dates.indexOf(key);
+      }}
+
+      function neighbor(key, delta) {{
+        var i = dayIndex(key);
+        if (i < 0) return null;
+        return dates[i + delta] || null;
+      }}
+
+      function prefetchDay(key) {{
+        if (!key || cache[key]) return;
+        fetch("data/" + key + ".json", {{ credentials: "same-origin" }})
+          .then(function (r) {{ return r.ok ? r.json() : null; }})
+          .then(function (data) {{ if (data) cache[key] = data; }})
+          .catch(function () {{}});
+      }}
+
+      function prefetchNeighbors() {{
+        prefetchDay(neighbor(currentKey, -1));
+        prefetchDay(neighbor(currentKey, 1));
+      }}
+
+      function rebuildCountOptions(len) {{
+        var current = parseInt(select.value, 10) || DEFAULT;
+        var html = "";
+        for (var n = 1; n <= Math.max(len, 1); n++) {{
+          html += '<option value="' + n + '"' + (n === Math.min(current, len) ? " selected" : "") + ">" + n + "</option>";
+        }}
+        select.innerHTML = html;
+      }}
+
+      function getCount(allLen) {{
         var n = parseInt(select.value, 10);
-        if (!n || n < 1) n = Math.min(DEFAULT, ALL.length);
-        return Math.min(n, ALL.length);
+        if (!n || n < 1) n = Math.min(DEFAULT, allLen);
+        return Math.min(n, allLen);
       }}
 
       function renderFeatured(item) {{
-        var existing = featuredRoot.querySelector(".featured-slide");
-        if (existing) existing.remove();
+        featuredRoot.innerHTML = "";
         if (!item) {{
           featuredWrap.classList.add("is-hidden");
           return;
@@ -426,10 +697,7 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
           '<span class="featured-date"><span class="dow">' + esc(item.weekday) +
           '</span><span class="md">' + esc(item.month_day) + '</span></span>' +
           '<span class="featured-title">' + esc((item.name || "").toUpperCase()) + '</span>';
-        featuredRoot.insertBefore(a, prevBtn);
-        var showNav = visible.length > 1;
-        prevBtn.classList.toggle("is-visible", showNav);
-        nextBtn.classList.toggle("is-visible", showNav);
+        featuredRoot.appendChild(a);
       }}
 
       function renderCards(items) {{
@@ -441,57 +709,157 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
         grid.classList.remove("is-hidden");
         grid.innerHTML = items.map(function (h) {{
           return (
-            '<article class="card">' +
-              '<a class="card-media" href="' + esc(h.url) + '" target="_blank" rel="noopener noreferrer">' +
+            '<a class="card" href="' + esc(h.url) + '" target="_blank" rel="noopener noreferrer">' +
+              '<span class="card-media">' +
                 (h.image
                   ? '<img src="' + esc(h.image) + '" alt="' + esc(h.name) + '" loading="lazy" width="400" height="400">'
-                  : '<div class="placeholder"></div>') +
-                '<div class="date-badge"><span class="dow">' + esc(h.weekday) +
-                '</span><span class="md">' + esc(h.month_day) + '</span></div>' +
-                '<span class="card-title">' + esc(h.name) + '</span>' +
-              '</a>' +
-            '</article>'
+                  : '<span class="placeholder"></span>') +
+                '<span class="date-badge"><span class="dow">' + esc(h.weekday) +
+                '</span><span class="md">' + esc(h.month_day) + '</span></span>' +
+                '<span class="card-title-overlay">' + esc(h.name) + '</span>' +
+              '</span>' +
+              '<span class="card-title-under">' + esc(h.name) + '</span>' +
+            '</a>'
           );
         }}).join("");
       }}
 
       function apply() {{
-        var count = getCount();
-        visible = ALL.slice(0, count);
-        if (featuredIndex >= visible.length) featuredIndex = 0;
-        var featured = visible[featuredIndex];
-        var cards = visible.filter(function (_, i) {{ return i !== featuredIndex; }});
-        renderFeatured(featured);
-        renderCards(cards);
-        try {{ localStorage.setItem(KEY, String(count)); }} catch (e) {{}}
+        var day = cache[currentKey];
+        if (!day) return;
+        var all = day.holidays || [];
+        rebuildCountOptions(all.length);
+        var count = getCount(all.length);
+        var visible = all.slice(0, count);
+        renderFeatured(visible[0]);
+        renderCards(visible.slice(1));
+
+        var isToday = currentKey === todayKey;
+        pageTitle.textContent = isToday ? "Today's Holidays" : "Holidays";
+        pageSub.textContent = day.label;
+        dateLabel.textContent = day.month_day;
+        seeMoreWrap.classList.toggle("is-hidden", count >= all.length);
+
+        prevBtn.disabled = !neighbor(currentKey, -1);
+        nextBtn.disabled = !neighbor(currentKey, 1);
+
+        try {{
+          localStorage.setItem(KEY, String(count || DEFAULT));
+          localStorage.setItem(VIEW_KEY, currentKey);
+        }} catch (e) {{}}
+
+        prefetchNeighbors();
       }}
 
-      var saved = null;
-      try {{ saved = parseInt(localStorage.getItem(KEY), 10); }} catch (e) {{}}
-      if (saved && saved >= 1 && saved <= ALL.length) {{
-        select.value = String(saved);
-      }} else {{
-        select.value = String(Math.min(DEFAULT, ALL.length));
+      function goTo(key) {{
+        if (!key || !cache[key]) {{
+          prefetchDay(key);
+          return;
+        }}
+        currentKey = key;
+        closeModal();
+        apply();
       }}
 
-      select.addEventListener("change", function () {{
-        featuredIndex = 0;
+      function openModal() {{ modal.classList.add("is-open"); }}
+      function closeModal() {{ modal.classList.remove("is-open"); }}
+
+      function getCookie(name) {{
+        var parts = ("; " + document.cookie).split("; " + name + "=");
+        if (parts.length === 2) return parts.pop().split(";").shift();
+        return null;
+      }}
+
+      function setCookie(name, value, days) {{
+        var maxAge = (days || 365) * 24 * 60 * 60;
+        document.cookie = name + "=" + encodeURIComponent(value) + "; path=/; max-age=" + maxAge + "; SameSite=Lax";
+      }}
+
+      function hasSeenWelcome() {{
+        try {{
+          if (localStorage.getItem(WELCOME_COOKIE) === "1") return true;
+        }} catch (e) {{}}
+        return getCookie(WELCOME_COOKIE) === "1";
+      }}
+
+      function markWelcomeSeen() {{
+        try {{ localStorage.setItem(WELCOME_COOKIE, "1"); }} catch (e) {{}}
+        setCookie(WELCOME_COOKIE, "1", 365);
+      }}
+
+      function closeWelcome() {{
+        welcomeModal.classList.remove("is-open");
+        welcomeModal.hidden = true;
+        markWelcomeSeen();
+      }}
+
+      function maybeShowWelcome() {{
+        if (hasSeenWelcome()) {{
+          welcomeModal.classList.remove("is-open");
+          welcomeModal.hidden = true;
+          return;
+        }}
+        welcomeModal.hidden = false;
+        welcomeModal.classList.add("is-open");
+      }}
+
+      prevBtn.addEventListener("click", function () {{
+        goTo(neighbor(currentKey, -1));
+      }});
+
+      nextBtn.addEventListener("click", function () {{
+        var next = neighbor(currentKey, 1);
+        if (!next) return;
+        if (next > todayKey) {{
+          openModal();
+          return;
+        }}
+        goTo(next);
+      }});
+
+      spoilCancel.addEventListener("click", closeModal);
+      spoilConfirm.addEventListener("click", function () {{
+        goTo(neighbor(currentKey, 1));
+      }});
+      modal.addEventListener("click", function (e) {{
+        if (e.target === modal) closeModal();
+      }});
+
+      welcomeOk.addEventListener("click", closeWelcome);
+      welcomeModal.addEventListener("click", function (e) {{
+        if (e.target === welcomeModal) closeWelcome();
+      }});
+
+      select.addEventListener("change", apply);
+
+      seeMore.addEventListener("click", function () {{
+        var day = cache[currentKey];
+        if (!day) return;
+        var allLen = (day.holidays || []).length;
+        var next = Math.min(getCount(allLen) + STEP, allLen);
+        select.value = String(next);
         apply();
       }});
-      prevBtn.addEventListener("click", function (e) {{
-        e.preventDefault();
-        if (visible.length < 2) return;
-        featuredIndex = (featuredIndex - 1 + visible.length) % visible.length;
-        apply();
+
+      // warm cache for neighbors immediately
+      dates.forEach(function (key) {{
+        if (key !== todayKey) prefetchDay(key);
       }});
-      nextBtn.addEventListener("click", function (e) {{
-        e.preventDefault();
-        if (visible.length < 2) return;
-        featuredIndex = (featuredIndex + 1) % visible.length;
-        apply();
-      }});
+
+      var savedCount = null;
+      var savedView = null;
+      try {{
+        savedCount = parseInt(localStorage.getItem(KEY), 10);
+        savedView = localStorage.getItem(VIEW_KEY);
+      }} catch (e) {{}}
+      if (savedView && cache[savedView]) currentKey = savedView;
+      if (savedCount && savedCount >= 1) {{
+        var dayHolidays = (cache[currentKey] && cache[currentKey].holidays) || [];
+        select.value = String(Math.min(savedCount, Math.max(dayHolidays.length, 1)));
+      }}
 
       apply();
+      maybeShowWelcome();
     }})();
   </script>
 </body>
@@ -500,23 +868,37 @@ def render_html(holidays: list[dict], scraped_at: str, day_label: str) -> str:
 
 
 def main() -> None:
-    holidays = scrape_holidays()
-    now = datetime.now(timezone.utc)
-    scraped_at = now.strftime("%Y-%m-%d %H:%M UTC")
-    day_label = date.today().strftime("%A, %B %d, %Y").replace(" 0", " ")
+    today = date.today()
+    days_to_fetch = [today - timedelta(days=1), today, today + timedelta(days=1)]
+    scraped_at = (
+        datetime.now(timezone.utc)
+        .strftime("%b %d, %Y · %I:%M %p UTC")
+        .replace(" 0", " ")
+        .replace("· 0", "· ")
+    )
 
-    payload = {
+    DATA_DIR.mkdir(exist_ok=True)
+    days: dict[str, dict] = {}
+    for i, d in enumerate(days_to_fetch):
+        if i:
+            time.sleep(1)
+        day = scrape_day(d)
+        days[d.isoformat()] = day
+        (DATA_DIR / f"{d.isoformat()}.json").write_text(
+            json.dumps(day, indent=2) + "\n", encoding="utf-8"
+        )
+        print(f"  {d.isoformat()}: {day['count']} holidays")
+
+    bundle = {
         "scraped_at": scraped_at,
-        "source": URL,
-        "count": len(holidays),
-        "holidays": holidays,
+        "today": today.isoformat(),
+        "order": [d.isoformat() for d in days_to_fetch],
+        "days": days,
     }
 
-    (ROOT / "data.json").write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
-    (ROOT / "index.html").write_text(
-        render_html(holidays, scraped_at, day_label), encoding="utf-8"
-    )
-    print(f"Wrote {len(holidays)} holidays → data.json + index.html")
+    (ROOT / "data.json").write_text(json.dumps(bundle, indent=2) + "\n", encoding="utf-8")
+    (ROOT / "index.html").write_text(render_html(bundle), encoding="utf-8")
+    print(f"Wrote yesterday/today/tomorrow → data/ + data.json + index.html")
 
 
 if __name__ == "__main__":
