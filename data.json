@@ -1,106 +1,12 @@
 {
-  "scraped_at": "Jul 14, 2026 \u00b7 5:32 PM UTC",
-  "today": "2026-07-14",
+  "scraped_at": "Jul 15, 2026 \u00b7 7:47 AM UTC",
+  "today": "2026-07-15",
   "order": [
-    "2026-07-13",
     "2026-07-14",
-    "2026-07-15"
+    "2026-07-15",
+    "2026-07-16"
   ],
   "days": {
-    "2026-07-13": {
-      "date": "2026-07-13",
-      "label": "Monday, July 13, 2026",
-      "weekday": "MON",
-      "month_day": "JUL 13",
-      "source": "https://nationaltoday.com/july-13/",
-      "count": 12,
-      "holidays": [
-        {
-          "name": "Beef Tallow Day",
-          "url": "https://nationaltoday.com/beef-tallow-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/138-Beef-Tallow.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "Embrace Your Geekness Day",
-          "url": "https://nationaltoday.com/embrace-your-geekness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Embrace-Your-Geekness.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "Fool's Paradise Day",
-          "url": "https://nationaltoday.com/fools-paradise-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Fools-Paradise-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "Gruntled Workers Day",
-          "url": "https://nationaltoday.com/gruntled-workers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_521608615-min.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "International Town Criers Day",
-          "url": "https://nationaltoday.com/international-town-criers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1472624615-min.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "National Barbershop Music Appreciation Day",
-          "url": "https://nationaltoday.com/national-barbershop-music-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/139-Barber-Music.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "NATIONAL BEANS \u2018N\u2019 FRANKS DAY",
-          "url": "https://nationaltoday.com/national-beans-n-franks-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/16-Beans-n-Franks.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "National Delaware Day",
-          "url": "https://nationaltoday.com/national-delaware-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/20-National-Delaware-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "National Paul Day",
-          "url": "https://nationaltoday.com/national-paul-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-6-min-16.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "National Rock Day",
-          "url": "https://nationaltoday.com/national-rock-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-6-min.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "National Tile Repair Day",
-          "url": "https://nationaltoday.com/national-tile-repair-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2025/07/pexels-victormoragriega-30344137.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        },
-        {
-          "name": "Sovereignty Day of Montenegro",
-          "url": "https://nationaltoday.com/sovereignty-day-of-montenegro/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568259-min.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 13"
-        }
-      ]
-    },
     "2026-07-14": {
       "date": "2026-07-14",
       "label": "Tuesday, July 14, 2026",
@@ -342,6 +248,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/9-World-Youth-Skills-Day.jpg",
           "weekday": "WED",
           "month_day": "JUL 15"
+        }
+      ]
+    },
+    "2026-07-16": {
+      "date": "2026-07-16",
+      "label": "Thursday, July 16, 2026",
+      "weekday": "THU",
+      "month_day": "JUL 16",
+      "source": "https://nationaltoday.com/july-16/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "National Corn Fritters Day",
+          "url": "https://nationaltoday.com/national-corn-fritters-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-corn-fritter-day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Artificial Intelligence Appreciation Day",
+          "url": "https://nationaltoday.com/artificial-intelligence-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/5-AI.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Fresh Spinach Day",
+          "url": "https://nationaltoday.com/fresh-spinach-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/3-Spinach.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Guinea Pig Appreciation Day",
+          "url": "https://nationaltoday.com/guinea-pig-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Guinea-Pig-Appreciation-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Harela",
+          "url": "https://nationaltoday.com/harela/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Harela.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "La Paz Day",
+          "url": "https://nationaltoday.com/la-paz-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/8-La-Paz.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Manu\u2019a Cession Day (in lieu)",
+          "url": "https://nationaltoday.com/manua-cession-day-in-lieu/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/26-Manua-Cession.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "National Atomic Veterans Day",
+          "url": "https://nationaltoday.com/national-atomic-veterans-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/30-Atomic.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "National Cherry Day",
+          "url": "https://nationaltoday.com/national-cherry-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Cherry-1.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "National D.R.E.S.S. Syndrome Day",
+          "url": "https://nationaltoday.com/national-dress-syndrome-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/7-DRESS.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "National Personal Chef Day",
+          "url": "https://nationaltoday.com/national-personal-chef-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "National Wedding Invitation Day",
+          "url": "https://nationaltoday.com/national-wedding-invitation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/6-Invitation.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Our Lady of Mount Carmel",
+          "url": "https://nationaltoday.com/our-lady-of-mount-carmel/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/14-Marry.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Rath Yatra",
+          "url": "https://nationaltoday.com/rath-yatra/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-79-min.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Rural Transit Day",
+          "url": "https://nationaltoday.com/rural-transit-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/17-Rural-Transit.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "Saune Sankranti",
+          "url": "https://nationaltoday.com/saune-sankranti/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568337-min.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "The Feast of Our Lady of Mount Carmel",
+          "url": "https://nationaltoday.com/the-feast-of-our-lady-of-mount-carmel/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568336-min.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
+        },
+        {
+          "name": "World Snake Day",
+          "url": "https://nationaltoday.com/world-snake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/World-Snake-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 16"
         }
       ]
     }
