@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Jul 15, 2026 \u00b7 7:47 AM UTC",
-  "today": "2026-07-15",
+  "scraped_at": "Jul 16, 2026 \u00b7 7:52 AM UTC",
+  "today": "2026-07-16",
   "order": [
-    "2026-07-14",
     "2026-07-15",
-    "2026-07-16"
+    "2026-07-16",
+    "2026-07-17"
   ],
   "days": {
-    "2026-07-14": {
-      "date": "2026-07-14",
-      "label": "Tuesday, July 14, 2026",
-      "weekday": "TUE",
-      "month_day": "JUL 14",
-      "source": "https://nationaltoday.com/july-14/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Mac and Cheese Day",
-          "url": "https://nationaltoday.com/national-mac-and-cheese-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-mac-cheese-day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Pandemonium Day",
-          "url": "https://nationaltoday.com/pandemonium-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Pandemonium.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Bastille Day",
-          "url": "https://nationaltoday.com/bastille-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Bastille.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Bastille day (Saint Martin)",
-          "url": "https://nationaltoday.com/bastille-day-saint-martin/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/19-Bastille-Day-in-Saint-Martin.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Emmeline Pankhurst Day",
-          "url": "https://nationaltoday.com/emmeline-pankhurst-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/15-Emmeline.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Fete de la Federation",
-          "url": "https://nationaltoday.com/fete-de-la-federation/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/46-Fete-de-la.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "International Non-Binary Peoples Day",
-          "url": "https://nationaltoday.com/international-non-binary-peoples-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568339-min.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National Be Nice to Bugs Day",
-          "url": "https://nationaltoday.com/national-be-nice-to-bugs-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568205-min.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National Break Free From the Big Three Day",
-          "url": "https://nationaltoday.com/national-break-free-big-three-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Break-Free-From-the-Big-Three-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National Grand Marnier Day",
-          "url": "https://nationaltoday.com/national-grand-marnier-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1344288722-min.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National No Splinters Day",
-          "url": "https://nationaltoday.com/national-no-splinters-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2025/07/splinter.jpeg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National Nude Day",
-          "url": "https://nationaltoday.com/national-nude-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/06/national-nude-day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "National Tape Measure Day",
-          "url": "https://nationaltoday.com/national-tape-measure-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Tape-Measure-1.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        },
-        {
-          "name": "Shark Awareness Day",
-          "url": "https://nationaltoday.com/shark-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1488699209-min.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 14"
-        }
-      ]
-    },
     "2026-07-15": {
       "date": "2026-07-15",
       "label": "Wednesday, July 15, 2026",
@@ -384,6 +276,86 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/07/World-Snake-Day.jpg",
           "weekday": "THU",
           "month_day": "JUL 16"
+        }
+      ]
+    },
+    "2026-07-17": {
+      "date": "2026-07-17",
+      "label": "Friday, July 17, 2026",
+      "weekday": "FRI",
+      "month_day": "JUL 17",
+      "source": "https://nationaltoday.com/july-17/",
+      "count": 10,
+      "holidays": [
+        {
+          "name": "National Lottery Day",
+          "url": "https://nationaltoday.com/national-lottery-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lottery.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "World Emoji Day",
+          "url": "https://nationaltoday.com/world-emoji-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/World-Emoji-.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "Constitution Day Korea",
+          "url": "https://nationaltoday.com/constitution-day-korea/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/9-S-Korea.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "King's Birthday in Lesotho",
+          "url": "https://nationaltoday.com/kings-birthday-in-lesotho/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/12-Lesotho-King.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "National Peach Ice Cream Day",
+          "url": "https://nationaltoday.com/national-peach-ice-cream-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Peach-Ice-Cream-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "National Tattoo Day",
+          "url": "https://nationaltoday.com/national-tattoo-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Tattoo-1.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "Tirot Sing Day",
+          "url": "https://nationaltoday.com/tirot-sing-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/11-U-Tirot-Sing-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "World Day for International Justice",
+          "url": "https://nationaltoday.com/world-day-for-international-justice/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1426151660-1-min.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "Wrong Way Corrigan Day",
+          "url": "https://nationaltoday.com/wrong-way-corrigan-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_4465174-min.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
+        },
+        {
+          "name": "Yellow Pig Day",
+          "url": "https://nationaltoday.com/yellow-pig-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Yellow-Pig.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 17"
         }
       ]
     }

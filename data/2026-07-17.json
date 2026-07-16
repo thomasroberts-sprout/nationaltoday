@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-17",
+  "label": "Friday, July 17, 2026",
+  "weekday": "FRI",
+  "month_day": "JUL 17",
+  "source": "https://nationaltoday.com/july-17/",
+  "count": 10,
+  "holidays": [
+    {
+      "name": "National Lottery Day",
+      "url": "https://nationaltoday.com/national-lottery-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lottery.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "World Emoji Day",
+      "url": "https://nationaltoday.com/world-emoji-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/07/World-Emoji-.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "Constitution Day Korea",
+      "url": "https://nationaltoday.com/constitution-day-korea/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/05/9-S-Korea.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "King's Birthday in Lesotho",
+      "url": "https://nationaltoday.com/kings-birthday-in-lesotho/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/05/12-Lesotho-King.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "National Peach Ice Cream Day",
+      "url": "https://nationaltoday.com/national-peach-ice-cream-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Peach-Ice-Cream-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "National Tattoo Day",
+      "url": "https://nationaltoday.com/national-tattoo-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Tattoo-1.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "Tirot Sing Day",
+      "url": "https://nationaltoday.com/tirot-sing-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/05/11-U-Tirot-Sing-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "World Day for International Justice",
+      "url": "https://nationaltoday.com/world-day-for-international-justice/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1426151660-1-min.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "Wrong Way Corrigan Day",
+      "url": "https://nationaltoday.com/wrong-way-corrigan-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_4465174-min.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    },
+    {
+      "name": "Yellow Pig Day",
+      "url": "https://nationaltoday.com/yellow-pig-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Yellow-Pig.jpg",
+      "weekday": "FRI",
+      "month_day": "JUL 17"
+    }
+  ]
+}
