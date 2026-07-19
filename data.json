@@ -1,92 +1,12 @@
 {
-  "scraped_at": "Jul 18, 2026 \u00b7 7:24 AM UTC",
-  "today": "2026-07-18",
+  "scraped_at": "Jul 19, 2026 \u00b7 7:56 AM UTC",
+  "today": "2026-07-19",
   "order": [
-    "2026-07-17",
     "2026-07-18",
-    "2026-07-19"
+    "2026-07-19",
+    "2026-07-20"
   ],
   "days": {
-    "2026-07-17": {
-      "date": "2026-07-17",
-      "label": "Friday, July 17, 2026",
-      "weekday": "FRI",
-      "month_day": "JUL 17",
-      "source": "https://nationaltoday.com/july-17/",
-      "count": 10,
-      "holidays": [
-        {
-          "name": "National Lottery Day",
-          "url": "https://nationaltoday.com/national-lottery-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lottery.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "World Emoji Day",
-          "url": "https://nationaltoday.com/world-emoji-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/World-Emoji-.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "Constitution Day Korea",
-          "url": "https://nationaltoday.com/constitution-day-korea/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/9-S-Korea.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "King's Birthday in Lesotho",
-          "url": "https://nationaltoday.com/kings-birthday-in-lesotho/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/12-Lesotho-King.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "National Peach Ice Cream Day",
-          "url": "https://nationaltoday.com/national-peach-ice-cream-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Peach-Ice-Cream-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "National Tattoo Day",
-          "url": "https://nationaltoday.com/national-tattoo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Tattoo-1.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "Tirot Sing Day",
-          "url": "https://nationaltoday.com/tirot-sing-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/11-U-Tirot-Sing-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "World Day for International Justice",
-          "url": "https://nationaltoday.com/world-day-for-international-justice/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1426151660-1-min.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "Wrong Way Corrigan Day",
-          "url": "https://nationaltoday.com/wrong-way-corrigan-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_4465174-min.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        },
-        {
-          "name": "Yellow Pig Day",
-          "url": "https://nationaltoday.com/yellow-pig-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Yellow-Pig.jpg",
-          "weekday": "FRI",
-          "month_day": "JUL 17"
-        }
-      ]
-    },
     "2026-07-18": {
       "date": "2026-07-18",
       "label": "Saturday, July 18, 2026",
@@ -314,6 +234,135 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/32-Sandinista-Revolution.jpg",
           "weekday": "SUN",
           "month_day": "JUL 19"
+        }
+      ]
+    },
+    "2026-07-20": {
+      "date": "2026-07-20",
+      "label": "Monday, July 20, 2026",
+      "weekday": "MON",
+      "month_day": "JUL 20",
+      "source": "https://nationaltoday.com/july-20/",
+      "count": 17,
+      "holidays": [
+        {
+          "name": "Moon Day",
+          "url": "https://nationaltoday.com/moon-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Apollo_11_Lunar_Lander.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Colombia Independence Day",
+          "url": "https://nationaltoday.com/colombia-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/29-Colombia-Independence-Day.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Crown Prince Haakon's Day",
+          "url": "https://nationaltoday.com/crown-prince-haakons-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/30-Prince-Haakon.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Global Hug Your Kids Day",
+          "url": "https://nationaltoday.com/global-hug-your-kids-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1145102393-min.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "International Chess Day",
+          "url": "https://nationaltoday.com/international-chess-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/International-Chess-Day.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Lempira Day",
+          "url": "https://nationaltoday.com/lempira-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568164-min.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Marine Day in Japan",
+          "url": "https://nationaltoday.com/marine-day-in-japan/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/40-Marine-Day-Japan.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "National Fortune Cookie Day",
+          "url": "https://nationaltoday.com/national-fortune-cookie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/19-Fortune-Cookie.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "National Get Out of the Dog House Day",
+          "url": "https://nationaltoday.com/national-get-dog-house-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Get-Out-of-the-Dog-House-Day.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "National Lollipop Day",
+          "url": "https://nationaltoday.com/national-lollipop-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lollipop.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "NATIONAL PENNSYLVANIA DAY",
+          "url": "https://nationaltoday.com/national-pennsylvania-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/21-PENNSYLVANIA-DAY.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "National Ugly Truck Contest Day",
+          "url": "https://nationaltoday.com/national-ugly-truck-contest-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/17-Ugly-Truck.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "President's Day in Botswana",
+          "url": "https://nationaltoday.com/presidents-day-in-botswana/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/27-President-Day.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Royal Welsh Show",
+          "url": "https://nationaltoday.com/royal-welsh-show/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Royal-Welsh-Show.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Space Exploration Day",
+          "url": "https://nationaltoday.com/space-exploration-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/18-Explore-Space.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "Women's Union Establishment Day",
+          "url": "https://nationaltoday.com/womens-union-establishment-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/41-Women-Union.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
+        },
+        {
+          "name": "World Jump Day",
+          "url": "https://nationaltoday.com/world-jump-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/World-Jump-Day.jpg",
+          "weekday": "MON",
+          "month_day": "JUL 20"
         }
       ]
     }
