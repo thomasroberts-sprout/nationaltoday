@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Jul 20, 2026 \u00b7 8:35 AM UTC",
-  "today": "2026-07-20",
+  "scraped_at": "Jul 21, 2026 \u00b7 8:04 AM UTC",
+  "today": "2026-07-21",
   "order": [
-    "2026-07-19",
     "2026-07-20",
-    "2026-07-21"
+    "2026-07-21",
+    "2026-07-22"
   ],
   "days": {
-    "2026-07-19": {
-      "date": "2026-07-19",
-      "label": "Sunday, July 19, 2026",
-      "weekday": "SUN",
-      "month_day": "JUL 19",
-      "source": "https://nationaltoday.com/july-19/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Daiquiri Day",
-          "url": "https://nationaltoday.com/national-daiquiri-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-daiquiri-day.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "National Ice Cream Day",
-          "url": "https://nationaltoday.com/national-ice-cream-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/national-ice-cream-day-1.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Bonalu",
-          "url": "https://nationaltoday.com/bonalu/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/6-Bonalu.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Captive Nations Week",
-          "url": "https://nationaltoday.com/captive-nations-week/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_2001859658-min.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Flight Attendant Safety Professionals' Day",
-          "url": "https://nationaltoday.com/flight-attendant-safety-professionals-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/26-Flight-Attendant-Safety.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Flitch Day",
-          "url": "https://nationaltoday.com/flitch-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Flitch-Day-1.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "International Retainer Day",
-          "url": "https://nationaltoday.com/international-retainer-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/42-International-Retainer.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Lake Superior Day",
-          "url": "https://nationaltoday.com/lake-superior-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/13-Lake-Superior.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Liberation Day/FSLN Revolution Day",
-          "url": "https://nationaltoday.com/liberation-day-fsln-revolution-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568166-min.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Martyr's Day Myanmar",
-          "url": "https://nationaltoday.com/martyrs-day-myanmar/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/37-Myanmar.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "National Football Day",
-          "url": "https://nationaltoday.com/national-football-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/shutterstock_1892473057-min-scaled.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "National Urban Beekeeping Day",
-          "url": "https://nationaltoday.com/national-urban-beekeeping-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/28-Beekeeping.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "National Words with Friends Day",
-          "url": "https://nationaltoday.com/national-words-with-friends-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/16-Words-with-Friends.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        },
-        {
-          "name": "Sandinista Revolution Day",
-          "url": "https://nationaltoday.com/sandinista-revolution-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/32-Sandinista-Revolution.jpg",
-          "weekday": "SUN",
-          "month_day": "JUL 19"
-        }
-      ]
-    },
     "2026-07-20": {
       "date": "2026-07-20",
       "label": "Monday, July 20, 2026",
@@ -349,6 +241,107 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/05/20-Monkey-Day.jpg",
           "weekday": "TUE",
           "month_day": "JUL 21"
+        }
+      ]
+    },
+    "2026-07-22": {
+      "date": "2026-07-22",
+      "label": "Wednesday, July 22, 2026",
+      "weekday": "WED",
+      "month_day": "JUL 22",
+      "source": "https://nationaltoday.com/july-22/",
+      "count": 13,
+      "holidays": [
+        {
+          "name": "Beta Glucan Day",
+          "url": "https://nationaltoday.com/beta-glucan-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2024/06/Beta-Glucan-Day.png",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Casual Pi Day",
+          "url": "https://nationaltoday.com/casual-pi-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/26-Pi-Day.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Lion's Share Day",
+          "url": "https://nationaltoday.com/lions-share-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/33-Lion-Share.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Mango Day",
+          "url": "https://nationaltoday.com/mango-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1090910984-min.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "National Fragile X Awareness Day",
+          "url": "https://nationaltoday.com/national-fragile-x-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567912-min-1.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "National Hammock Day",
+          "url": "https://nationaltoday.com/national-hammock-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-hammock-day.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "National Penuche Fudge Day",
+          "url": "https://nationaltoday.com/national-penuche-fudge-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Penuche-Fudge-Day.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "NATIONAL RAT CATCHER\u2019S DAY",
+          "url": "https://nationaltoday.com/national-rat-catchers-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/NATIONAL-RAT-CATCHERS-DAY.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Pi Approximation Day",
+          "url": "https://nationaltoday.com/pi-approximation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Pi-Approximation.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Sarawak Day",
+          "url": "https://nationaltoday.com/sarawak-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-38-min-1.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Spoonerism Day",
+          "url": "https://nationaltoday.com/spoonerism-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/25-Spoonerism-Day.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "Tisha B'Av",
+          "url": "https://nationaltoday.com/tisha-bav/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1315037591-min.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
+        },
+        {
+          "name": "World Brain Day",
+          "url": "https://nationaltoday.com/world-brain-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Brain-Day.jpg",
+          "weekday": "WED",
+          "month_day": "JUL 22"
         }
       ]
     }
