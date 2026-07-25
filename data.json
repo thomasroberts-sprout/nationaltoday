@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Jul 24, 2026 \u00b7 8:04 AM UTC",
-  "today": "2026-07-24",
+  "scraped_at": "Jul 25, 2026 \u00b7 7:48 AM UTC",
+  "today": "2026-07-25",
   "order": [
-    "2026-07-23",
     "2026-07-24",
-    "2026-07-25"
+    "2026-07-25",
+    "2026-07-26"
   ],
   "days": {
-    "2026-07-23": {
-      "date": "2026-07-23",
-      "label": "Thursday, July 23, 2026",
-      "weekday": "THU",
-      "month_day": "JUL 23",
-      "source": "https://nationaltoday.com/july-23/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Gorgeous Grandma Day",
-          "url": "https://nationaltoday.com/national-gorgeous-grandma-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-gorgeous-grandma-day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Apolinario Mabini Day",
-          "url": "https://nationaltoday.com/apolinario-mabini-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/8-Apolinario-Mabini-Day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Comic Con",
-          "url": "https://nationaltoday.com/comic-con/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Comic-Con-.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Fast of Ninth of Av",
-          "url": "https://nationaltoday.com/fast-of-ninth-of-av/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-8-min.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Hot Enough For Ya Day",
-          "url": "https://nationaltoday.com/hot-enough-for-ya-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Hot-Enough-For-Ya-Day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "International Yada Yada Yada Day",
-          "url": "https://nationaltoday.com/international-yada-yada-yada-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/3-Yada-Yada-Yada.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "National Refreshment Day",
-          "url": "https://nationaltoday.com/national-refreshment-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Refreshment-Day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "National Sprinkle Day",
-          "url": "https://nationaltoday.com/national-sprinkle-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/34-Sprinkles.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "National Vanilla Ice Cream Day",
-          "url": "https://nationaltoday.com/national-vanilla-ice-cream-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Vanilla-Ice-Cream-Day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "National Women Touched By Addiction Day",
-          "url": "https://nationaltoday.com/national-women-touched-by-addiction-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Women-Touched-By-Addiction.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "PANAFEST",
-          "url": "https://nationaltoday.com/panafest/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568335-min.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Peanut Butter and Chocolate Day",
-          "url": "https://nationaltoday.com/peanut-butter-and-chocolate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Peanut-Butter-and-Chocolate-Day.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "Pflasterspektakel Linz",
-          "url": "https://nationaltoday.com/pflasterspektakel-linz/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/10/456840883-min.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        },
-        {
-          "name": "World Sjogren's Day",
-          "url": "https://nationaltoday.com/world-sjogrens-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/8-Sjogren.jpg",
-          "weekday": "THU",
-          "month_day": "JUL 23"
-        }
-      ]
-    },
     "2026-07-24": {
       "date": "2026-07-24",
       "label": "Friday, July 24, 2026",
@@ -391,6 +283,149 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/19-Drowning-Prevention-Day.jpg",
           "weekday": "SAT",
           "month_day": "JUL 25"
+        }
+      ]
+    },
+    "2026-07-26": {
+      "date": "2026-07-26",
+      "label": "Sunday, July 26, 2026",
+      "weekday": "SUN",
+      "month_day": "JUL 26",
+      "source": "https://nationaltoday.com/july-26/",
+      "count": 19,
+      "holidays": [
+        {
+          "name": "National Aunt and Uncle Day",
+          "url": "https://nationaltoday.com/national-aunt-and-uncle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-aunt-and-uncle-day.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Auntie's Day",
+          "url": "https://nationaltoday.com/aunties-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/30-Auntie.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Fiesta de Santa Ana (Nicaragua)",
+          "url": "https://nationaltoday.com/fiesta-de-santa-ana-nicaragua/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568160-min.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Holistic Therapy Day",
+          "url": "https://nationaltoday.com/holistic-therapy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/41-Holistic-Therapy.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Liberia Independence Day",
+          "url": "https://nationaltoday.com/liberia-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/30-Liberia-Independence.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Maldives Independence Day",
+          "url": "https://nationaltoday.com/maldives-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Maldives-Independence-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National All or Nothing Day",
+          "url": "https://nationaltoday.com/national-all-or-nothing-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_233565985-min.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Bagelfest Day",
+          "url": "https://nationaltoday.com/national-bagelfest-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1716812857-min.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Coffee Milkshake Day",
+          "url": "https://nationaltoday.com/national-coffee-milkshake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Coffee-Milkshake.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Disability Independence Day",
+          "url": "https://nationaltoday.com/national-disability-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/25-National-Disability-Independence-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Dog Photography Day",
+          "url": "https://nationaltoday.com/national-dog-photography-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/25-Dog-Photo.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Parents\u2019 Day",
+          "url": "https://nationaltoday.com/national-parents-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-parents-day.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Rebellion Day",
+          "url": "https://nationaltoday.com/national-rebellion-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/29-Commemoration-of-the-Assault-on-Moncada.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Saint Day",
+          "url": "https://nationaltoday.com/national-saint-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/lkjhgfhjkl-4-min-23.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "National Tree Day",
+          "url": "https://nationaltoday.com/national-tree-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/7-Tree-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "One Voice Day",
+          "url": "https://nationaltoday.com/one-voice-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_469338869-min.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "Reek Sunday",
+          "url": "https://nationaltoday.com/reek-sunday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/31-Reek-Sunday.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "World Mangrove Day",
+          "url": "https://nationaltoday.com/world-mangrove-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/34-Mangrove-Ecosystem.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
+        },
+        {
+          "name": "World Tofu Day",
+          "url": "https://nationaltoday.com/world-tofu-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/26-Tofu.jpg",
+          "weekday": "SUN",
+          "month_day": "JUL 26"
         }
       ]
     }
