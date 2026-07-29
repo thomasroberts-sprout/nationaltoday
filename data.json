@@ -1,148 +1,12 @@
 {
-  "scraped_at": "Jul 28, 2026 \u00b7 8:11 AM UTC",
-  "today": "2026-07-28",
+  "scraped_at": "Jul 29, 2026 \u00b7 8:16 AM UTC",
+  "today": "2026-07-29",
   "order": [
-    "2026-07-27",
     "2026-07-28",
-    "2026-07-29"
+    "2026-07-29",
+    "2026-07-30"
   ],
   "days": {
-    "2026-07-27": {
-      "date": "2026-07-27",
-      "label": "Monday, July 27, 2026",
-      "weekday": "MON",
-      "month_day": "JUL 27",
-      "source": "https://nationaltoday.com/july-27/",
-      "count": 18,
-      "holidays": [
-        {
-          "name": "National Scotch Day",
-          "url": "https://nationaltoday.com/national-scotch-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-scotch-day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Bagpipe Appreciation Day",
-          "url": "https://nationaltoday.com/bagpipe-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/33-Bagpipe-Appreciation.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Barbie-in-a-Blender Day",
-          "url": "https://nationaltoday.com/barbie-in-a-blender-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/32-Barbie-in-a-Blender.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Birthday of Dr. Jose Celso Barbosa",
-          "url": "https://nationaltoday.com/birthday-of-dr-jose-celso-barbosa/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/28-Jose-Celso-Barbosa.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Cross Atlantic Communication Day",
-          "url": "https://nationaltoday.com/cross-atlantic-communication-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/40-Cross-Atlantic.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Gary Gygax Day",
-          "url": "https://nationaltoday.com/gary-gygax-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/35-Gary-Gygax.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Iglesia ni Cristo Day",
-          "url": "https://nationaltoday.com/iglesia-ni-cristo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/42-Iglesia-ni-Cristo-1.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Chicken Finger Day",
-          "url": "https://nationaltoday.com/national-chicken-finger-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/43-Chicken-Finger.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Creme Br\u00fbl\u00e9e Day",
-          "url": "https://nationaltoday.com/national-creme-brulee-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Creme-Bru\u0302le\u0301e.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Korean War Veterans Armistice Day",
-          "url": "https://nationaltoday.com/national-korean-war-veterans-armistice-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Korean-War-Veterans-Armistice-Day-1-1.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Love is Kind Day",
-          "url": "https://nationaltoday.com/national-love-is-kind-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/3-Love.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National New Jersey Day",
-          "url": "https://nationaltoday.com/national-new-jersey-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568159-min.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Roanoke Community Beautification Day",
-          "url": "https://nationaltoday.com/national-roanoke-community-beautification-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Roanoke-Community-Beautification-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "National Sleepy Head Day",
-          "url": "https://nationaltoday.com/national-sleepy-head-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/1-Sleepy-Head.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Norfolk Day",
-          "url": "https://nationaltoday.com/norfolk-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Norfolk-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Take Your Houseplant For A Walk Day",
-          "url": "https://nationaltoday.com/take-your-houseplant-for-a-walk-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/27-Take-Your-Houseplant-For-A-Walk-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Take Your Pants for a Walk Day",
-          "url": "https://nationaltoday.com/take-your-pants-for-a-walk-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Take-Your-Pants-for-a-Walk-Day.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        },
-        {
-          "name": "Walk On Stilts Day",
-          "url": "https://nationaltoday.com/walk-on-stilts-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/5-Stilts.jpg",
-          "weekday": "MON",
-          "month_day": "JUL 27"
-        }
-      ]
-    },
     "2026-07-28": {
       "date": "2026-07-28",
       "label": "Tuesday, July 28, 2026",
@@ -342,6 +206,128 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/28-Wallis-and-Futuna.jpg",
           "weekday": "WED",
           "month_day": "JUL 29"
+        }
+      ]
+    },
+    "2026-07-30": {
+      "date": "2026-07-30",
+      "label": "Thursday, July 30, 2026",
+      "weekday": "THU",
+      "month_day": "JUL 30",
+      "source": "https://nationaltoday.com/july-30/",
+      "count": 16,
+      "holidays": [
+        {
+          "name": "International Day of Friendship",
+          "url": "https://nationaltoday.com/international-day-of-friendship/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/international-day-friendship.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Cheesecake Day",
+          "url": "https://nationaltoday.com/national-cheesecake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-cheesecake-day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Chili Dog Day",
+          "url": "https://nationaltoday.com/national-chili-dog-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-chili-dog-day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Earth Overshoot Day",
+          "url": "https://nationaltoday.com/earth-overshoot-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Earth-Overshoot-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Enthronement in Morocco",
+          "url": "https://nationaltoday.com/enthronement-in-morocco/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Enthronement-in-Morocco.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "International Digital Adoption (DAP) Professionals Day",
+          "url": "https://nationaltoday.com/digital-adoption-professionals-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/DAP-Professionals-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Martyrs' Day South Sudan",
+          "url": "https://nationaltoday.com/martyrs-day-south-sudan/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/24-Martyrs-Day-in-South-Sudan.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Father-in-Law Day",
+          "url": "https://nationaltoday.com/national-father-in-law-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-father-in-law-day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Intern Day",
+          "url": "https://nationaltoday.com/national-intern-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Intern-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Support Public Education Day",
+          "url": "https://nationaltoday.com/national-support-public-education-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_261534164-min.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "National Whistleblower Day",
+          "url": "https://nationaltoday.com/national-whistleblower-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Whistleblower-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Paperback Book Day",
+          "url": "https://nationaltoday.com/paperback-book-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Paperback-Book-Day.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Share a Hug Day",
+          "url": "https://nationaltoday.com/share-a-hug-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/11-Hug.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "Vanuatu Independence Day",
+          "url": "https://nationaltoday.com/vanuatu-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/4-Vanuatu.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "WORLD DAY AGAINST TRAFFICKING IN PERSONS",
+          "url": "https://nationaltoday.com/world-day-against-trafficking-in-persons/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/WORLD-DAY-AGAINST-TRAFFICKING-IN-PERSONS.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
+        },
+        {
+          "name": "World Snorkeling Day",
+          "url": "https://nationaltoday.com/world-snorkeling-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/12-Snorkeling.jpg",
+          "weekday": "THU",
+          "month_day": "JUL 30"
         }
       ]
     }
