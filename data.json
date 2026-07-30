@@ -1,113 +1,12 @@
 {
-  "scraped_at": "Jul 29, 2026 \u00b7 8:16 AM UTC",
-  "today": "2026-07-29",
+  "scraped_at": "Jul 30, 2026 \u00b7 8:04 AM UTC",
+  "today": "2026-07-30",
   "order": [
-    "2026-07-28",
     "2026-07-29",
-    "2026-07-30"
+    "2026-07-30",
+    "2026-07-31"
   ],
   "days": {
-    "2026-07-28": {
-      "date": "2026-07-28",
-      "label": "Tuesday, July 28, 2026",
-      "weekday": "TUE",
-      "month_day": "JUL 28",
-      "source": "https://nationaltoday.com/july-28/",
-      "count": 13,
-      "holidays": [
-        {
-          "name": "National Milk Chocolate Day",
-          "url": "https://nationaltoday.com/national-milk-chocolate-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/national-milk-chocolate-day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "World Hepatitis Day",
-          "url": "https://nationaltoday.com/world-hepatitis-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/world-hepatitis-day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Anniversary of the Fall of Fascism and Freedom Day",
-          "url": "https://nationaltoday.com/anniversary-of-the-fall-of-fascism-and-freedom-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/33-Fall-of-Fascism.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Baptism Day of Kyivan Rus",
-          "url": "https://nationaltoday.com/baptism-day-of-kyivan-rus/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Frame-128-min.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Buffalo Soldiers Day",
-          "url": "https://nationaltoday.com/buffalo-soldiers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Buffalo-Soldiers.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Day of Cantabria Institutions",
-          "url": "https://nationaltoday.com/day-of-cantabria-institutions/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Day-of-Cantabria-Institutions.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "H.M. King's Birthday",
-          "url": "https://nationaltoday.com/h-m-kings-birthday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/27-H-M-King-Birthday.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "National Soccer Day",
-          "url": "https://nationaltoday.com/national-soccer-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Soccer-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "NATIONAL WATERPARK DAY",
-          "url": "https://nationaltoday.com/national-waterpark-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/NATIONAL-WATERPARK-DAY.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Peru Independence Day",
-          "url": "https://nationaltoday.com/peru-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Peru-Independence-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "St. Olav\u2019s Eve in Faroe Islands",
-          "url": "https://nationaltoday.com/st-olavs-eve-in-faroe-islands/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/St.-Olavs-Eve-in-the-Faroe-Islands.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "Tu B'Av",
-          "url": "https://nationaltoday.com/tu-bav/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/27-Tu-BAv.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        },
-        {
-          "name": "World Nature Conservation Day",
-          "url": "https://nationaltoday.com/world-nature-conservation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Tree-Week.jpg",
-          "weekday": "TUE",
-          "month_day": "JUL 28"
-        }
-      ]
-    },
     "2026-07-29": {
       "date": "2026-07-29",
       "label": "Wednesday, July 29, 2026",
@@ -328,6 +227,114 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/05/12-Snorkeling.jpg",
           "weekday": "THU",
           "month_day": "JUL 30"
+        }
+      ]
+    },
+    "2026-07-31": {
+      "date": "2026-07-31",
+      "label": "Friday, July 31, 2026",
+      "weekday": "FRI",
+      "month_day": "JUL 31",
+      "source": "https://nationaltoday.com/july-31/",
+      "count": 14,
+      "holidays": [
+        {
+          "name": "National Mutt Day",
+          "url": "https://nationaltoday.com/national-mutt-day-july/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/National-Mutt-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Harry Potter Birthday",
+          "url": "https://nationaltoday.com/harry-potter-birthday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Harry-Potter-Birthday.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Hawaii Flag Day",
+          "url": "https://nationaltoday.com/hawaii-flag-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/19-Hawaii-Flag.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Lifeguard Appreciation Day",
+          "url": "https://nationaltoday.com/lifeguard-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/8-Lifeguard.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Martyrdom Day of Shaheed Udham Singh",
+          "url": "https://nationaltoday.com/martyrdom-day-of-shaheed-udham-singh/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/20-Shaheed-Udham-Singh.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Mary Prince Day",
+          "url": "https://nationaltoday.com/mary-prince-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Mary-Prince-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "National Avocado Day",
+          "url": "https://nationaltoday.com/national-avocado-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Avocado.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "National Jump for Jelly Beans Day",
+          "url": "https://nationaltoday.com/national-jump-for-jelly-beans-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/9-Jelly-Beans.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "National Raspberry Cake Day",
+          "url": "https://nationaltoday.com/national-raspberry-cake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Raspberry-Cake-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "National Talk in an Elevator Day",
+          "url": "https://nationaltoday.com/national-talk-in-an-elevator-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Talk-in-an-Elevator-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Shredded Wheat Day",
+          "url": "https://nationaltoday.com/shredded-wheat-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/10-Wheat.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "System Administrator Appreciation Day",
+          "url": "https://nationaltoday.com/system-administrator-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/System-Administrator-Appreciation-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "Uncommon Instrument Awareness Day",
+          "url": "https://nationaltoday.com/uncommon-instrument-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Uncommon-Instrument-Awareness-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
+        },
+        {
+          "name": "World Ranger Day",
+          "url": "https://nationaltoday.com/world-ranger-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/World-Ranger.jpg",
+          "weekday": "FRI",
+          "month_day": "JUL 31"
         }
       ]
     }
