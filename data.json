@@ -1,113 +1,12 @@
 {
-  "scraped_at": "Jul 30, 2026 \u00b7 8:04 AM UTC",
-  "today": "2026-07-30",
+  "scraped_at": "Jul 31, 2026 \u00b7 8:30 AM UTC",
+  "today": "2026-07-31",
   "order": [
-    "2026-07-29",
     "2026-07-30",
-    "2026-07-31"
+    "2026-07-31",
+    "2026-08-01"
   ],
   "days": {
-    "2026-07-29": {
-      "date": "2026-07-29",
-      "label": "Wednesday, July 29, 2026",
-      "weekday": "WED",
-      "month_day": "JUL 29",
-      "source": "https://nationaltoday.com/july-29/",
-      "count": 13,
-      "holidays": [
-        {
-          "name": "National Lasagna Day",
-          "url": "https://nationaltoday.com/national-lasagna-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lasagna.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "National Lipstick Day",
-          "url": "https://nationaltoday.com/national-lipstick-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Lipstick.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Asahna Bucha Day",
-          "url": "https://nationaltoday.com/asahna-bucha-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/141-Asahna-Bucha-Day-1.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Asalha Puja",
-          "url": "https://nationaltoday.com/asalha-puja/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/07/asalha-puja-july-27.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Cheese Sacrifice Purchase Day",
-          "url": "https://nationaltoday.com/cheese-sacrifice-purchase-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/2-Cheese-Buying.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Esala Full Moon Poya",
-          "url": "https://nationaltoday.com/esala-full-moon-poya/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/38-Full-Moon.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Full Moon Day of Waso",
-          "url": "https://nationaltoday.com/full-moon-day-of-waso/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Full-Moon-Day-of-Waso.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "International Tiger Day",
-          "url": "https://nationaltoday.com/international-tiger-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/International-Tiger-Day.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "National Challenged Champions and Heroes Awareness Day",
-          "url": "https://nationaltoday.com/national-challenged-champions-and-heroes-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Challenged-Champions-and-Heroes-Awareness-Day.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "National Chicken Wing Day",
-          "url": "https://nationaltoday.com/national-wing-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Chicken-Wing.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "National Get Gnarly Day",
-          "url": "https://nationaltoday.com/national-get-gnarly-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Get-Gnarly-Day.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Rain Day",
-          "url": "https://nationaltoday.com/rain-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Rain-Day.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        },
-        {
-          "name": "Wallis and Futuna Territory Day",
-          "url": "https://nationaltoday.com/wallis-and-futuna-territory-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/28-Wallis-and-Futuna.jpg",
-          "weekday": "WED",
-          "month_day": "JUL 29"
-        }
-      ]
-    },
     "2026-07-30": {
       "date": "2026-07-30",
       "label": "Thursday, July 30, 2026",
@@ -335,6 +234,254 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/02/World-Ranger.jpg",
           "weekday": "FRI",
           "month_day": "JUL 31"
+        }
+      ]
+    },
+    "2026-08-01": {
+      "date": "2026-08-01",
+      "label": "Saturday, August 1, 2026",
+      "weekday": "SAT",
+      "month_day": "AUG 1",
+      "source": "https://nationaltoday.com/august-1/",
+      "count": 34,
+      "holidays": [
+        {
+          "name": "National Girlfriend Day",
+          "url": "https://nationaltoday.com/national-girlfriend-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Girlfriend.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Spider-Man Day",
+          "url": "https://nationaltoday.com/spider-man-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Spider-Man.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Albari\u00f1o Day",
+          "url": "https://nationaltoday.com/albarino-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/21-Wine-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Benin Independence Day",
+          "url": "https://nationaltoday.com/benin-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/25-Benin-Flag.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Colorado Day",
+          "url": "https://nationaltoday.com/colorado-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/26-Colarado.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Emancipation Day (Guyana)",
+          "url": "https://nationaltoday.com/emancipation-day-guyana/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568158-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Guadalcanal Province Day",
+          "url": "https://nationaltoday.com/guadalcanal-province-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Guadalcanal-Province-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Homemade Pie Day",
+          "url": "https://nationaltoday.com/homemade-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/15-Piee.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "International Can-It Forward Day",
+          "url": "https://nationaltoday.com/international-can-it-forward-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/2-Canned.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "International Childfree Day",
+          "url": "https://nationaltoday.com/international-childfree-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/12-International-Childfree-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Lammas Day",
+          "url": "https://nationaltoday.com/lammas-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Lammas-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Lughnasadh",
+          "url": "https://nationaltoday.com/lughnasadh/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/32-Lughnasadh-1.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Mead Day",
+          "url": "https://nationaltoday.com/mead-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Mead-Day-.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Day of Benin",
+          "url": "https://nationaltoday.com/national-day-of-benin/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/19-Benin-Flag.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Disc Golf Day",
+          "url": "https://nationaltoday.com/national-disc-golf-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1695254653-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Eisteddfod",
+          "url": "https://nationaltoday.com/national-eisteddfod/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Eisteddfod.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Jamaican Patty Day",
+          "url": "https://nationaltoday.com/national-jamaican-patty-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/11-Patty-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Minority Donor Awareness Day",
+          "url": "https://nationaltoday.com/national-minority-donor-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Minority-Donor-Awareness-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Planner Day",
+          "url": "https://nationaltoday.com/national-planner-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/18-Planning.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Promise to Care Day",
+          "url": "https://nationaltoday.com/national-promise-to-care-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/27-Caring-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "National Raspberry Cream Pie Day",
+          "url": "https://nationaltoday.com/national-raspberry-cream-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Raspberry-Cream-Pie-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Play Ball Day",
+          "url": "https://nationaltoday.com/play-ball-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Play-Ball-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Respect For Parents Day",
+          "url": "https://nationaltoday.com/respect-for-parents-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Respect-For-Parents-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Rounds Resounding Day",
+          "url": "https://nationaltoday.com/rounds-resounding-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Rounds-Resounding-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Sandcastle Day",
+          "url": "https://nationaltoday.com/sandcastle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/13-Sandcastle-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Santo Domingo Celebrations Start",
+          "url": "https://nationaltoday.com/santo-domingo-celebrations-start/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/17-Santo-Domingo-Celebrations.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Santo Domingo Celebrations Start",
+          "url": "https://nationaltoday.com/santo-domingo-celebrations-start-2/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/26-Santo-Domingo-Celebrations-Start.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Start Up Day Across America",
+          "url": "https://nationaltoday.com/start-up-day-across-america/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/1-Start-Up-Day-Across-America.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Switzerland National Day",
+          "url": "https://nationaltoday.com/switzerland-national-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/17-Swiss-Flag.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Woman Astronomers Day",
+          "url": "https://nationaltoday.com/woman-astronomers-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/Woman-Astronomers.png",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "World Lung Cancer Day",
+          "url": "https://nationaltoday.com/world-lung-cancer-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/14-Lungs-Cancer.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "World Scout Scarf Day",
+          "url": "https://nationaltoday.com/world-scout-scarf-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Scout-Scarf-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "World Wide Web Day",
+          "url": "https://nationaltoday.com/world-wide-web-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_159262919-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
+        },
+        {
+          "name": "Yorkshire Day",
+          "url": "https://nationaltoday.com/yorkshire-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568295-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 01"
         }
       ]
     }
