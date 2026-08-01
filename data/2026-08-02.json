@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-02",
+  "label": "Sunday, August 2, 2026",
+  "weekday": "SUN",
+  "month_day": "AUG 2",
+  "source": "https://nationaltoday.com/august-2/",
+  "count": 9,
+  "holidays": [
+    {
+      "name": "National Ice Cream Sandwich Day",
+      "url": "https://nationaltoday.com/national-ice-cream-sandwich-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-ice-cream-sandwich-day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "National Mustard Day",
+      "url": "https://nationaltoday.com/national-mustard-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-mustard-day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "National Sisters Day",
+      "url": "https://nationaltoday.com/sisters-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-sisters-day-1.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "American Family Day",
+      "url": "https://nationaltoday.com/american-family-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/American-Family-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "National CAD Day",
+      "url": "https://nationaltoday.com/national-cad-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-CAD-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "National Coloring Book Day",
+      "url": "https://nationaltoday.com/national-coloring-book-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Coloring-Book-1.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "Psychic Day",
+      "url": "https://nationaltoday.com/psychic-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Psychic-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "Republic Day in North Macedonia",
+      "url": "https://nationaltoday.com/republic-day-in-north-macedonia/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/7-North-Macedonia.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    },
+    {
+      "name": "Virgin of Los Angeles Day",
+      "url": "https://nationaltoday.com/virgin-of-los-angeles-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Virgin-of-Los-Angeles-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "AUG 02"
+    }
+  ]
+}
