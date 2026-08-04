@@ -1,85 +1,12 @@
 {
-  "scraped_at": "Aug 3, 2026 \u00b7 8:58 AM UTC",
-  "today": "2026-08-03",
+  "scraped_at": "Aug 4, 2026 \u00b7 8:14 AM UTC",
+  "today": "2026-08-04",
   "order": [
-    "2026-08-02",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-05"
   ],
   "days": {
-    "2026-08-02": {
-      "date": "2026-08-02",
-      "label": "Sunday, August 2, 2026",
-      "weekday": "SUN",
-      "month_day": "AUG 2",
-      "source": "https://nationaltoday.com/august-2/",
-      "count": 9,
-      "holidays": [
-        {
-          "name": "National Ice Cream Sandwich Day",
-          "url": "https://nationaltoday.com/national-ice-cream-sandwich-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-ice-cream-sandwich-day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "National Mustard Day",
-          "url": "https://nationaltoday.com/national-mustard-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-mustard-day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "National Sisters Day",
-          "url": "https://nationaltoday.com/sisters-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-sisters-day-1.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "American Family Day",
-          "url": "https://nationaltoday.com/american-family-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/American-Family-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "National CAD Day",
-          "url": "https://nationaltoday.com/national-cad-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-CAD-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "National Coloring Book Day",
-          "url": "https://nationaltoday.com/national-coloring-book-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Coloring-Book-1.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "Psychic Day",
-          "url": "https://nationaltoday.com/psychic-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Psychic-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "Republic Day in North Macedonia",
-          "url": "https://nationaltoday.com/republic-day-in-north-macedonia/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/7-North-Macedonia.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        },
-        {
-          "name": "Virgin of Los Angeles Day",
-          "url": "https://nationaltoday.com/virgin-of-los-angeles-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Virgin-of-Los-Angeles-Day.jpg",
-          "weekday": "SUN",
-          "month_day": "AUG 02"
-        }
-      ]
-    },
     "2026-08-03": {
       "date": "2026-08-03",
       "label": "Monday, August 3, 2026",
@@ -335,6 +262,86 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2019/08/u-s-coast-guard-birthday.jpg",
           "weekday": "TUE",
           "month_day": "AUG 04"
+        }
+      ]
+    },
+    "2026-08-05": {
+      "date": "2026-08-05",
+      "label": "Wednesday, August 5, 2026",
+      "weekday": "WED",
+      "month_day": "AUG 5",
+      "source": "https://nationaltoday.com/august-5/",
+      "count": 10,
+      "holidays": [
+        {
+          "name": "Blogger Day",
+          "url": "https://nationaltoday.com/blogger-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/10-Blogger-Day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "Burkina Faso Independence Day",
+          "url": "https://nationaltoday.com/burkina-faso-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/29-Burkina-Faso-Independence.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "Ker Puja",
+          "url": "https://nationaltoday.com/ker-puja/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Ker-Puja.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "National Couscous Day",
+          "url": "https://nationaltoday.com/national-couscous-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Couscous-Day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "National Dash Cam Day",
+          "url": "https://nationaltoday.com/national-dash-cam-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Dash-Cam-Day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "National Oyster Day",
+          "url": "https://nationaltoday.com/national-oyster-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Oyster-Day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "National Psychiatric Technician Appreciation Day",
+          "url": "https://nationaltoday.com/national-psychiatric-technician-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Psychiatric-Technician-Appreciation-Day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "National Underwear Day",
+          "url": "https://nationaltoday.com/national-underwear-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-underwear-day.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "Our Lady of Africa",
+          "url": "https://nationaltoday.com/our-lady-of-africa/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/30-Our-Lady-of-Africa.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
+        },
+        {
+          "name": "Work Like a Dog Day",
+          "url": "https://nationaltoday.com/work-like-a-dog-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Work-Like-a-Dog.jpg",
+          "weekday": "WED",
+          "month_day": "AUG 05"
         }
       ]
     }

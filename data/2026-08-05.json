@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-05",
+  "label": "Wednesday, August 5, 2026",
+  "weekday": "WED",
+  "month_day": "AUG 5",
+  "source": "https://nationaltoday.com/august-5/",
+  "count": 10,
+  "holidays": [
+    {
+      "name": "Blogger Day",
+      "url": "https://nationaltoday.com/blogger-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/10-Blogger-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "Burkina Faso Independence Day",
+      "url": "https://nationaltoday.com/burkina-faso-independence-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/29-Burkina-Faso-Independence.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "Ker Puja",
+      "url": "https://nationaltoday.com/ker-puja/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Ker-Puja.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "National Couscous Day",
+      "url": "https://nationaltoday.com/national-couscous-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Couscous-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "National Dash Cam Day",
+      "url": "https://nationaltoday.com/national-dash-cam-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Dash-Cam-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "National Oyster Day",
+      "url": "https://nationaltoday.com/national-oyster-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Oyster-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "National Psychiatric Technician Appreciation Day",
+      "url": "https://nationaltoday.com/national-psychiatric-technician-appreciation-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Psychiatric-Technician-Appreciation-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "National Underwear Day",
+      "url": "https://nationaltoday.com/national-underwear-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-underwear-day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "Our Lady of Africa",
+      "url": "https://nationaltoday.com/our-lady-of-africa/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/30-Our-Lady-of-Africa.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    },
+    {
+      "name": "Work Like a Dog Day",
+      "url": "https://nationaltoday.com/work-like-a-dog-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Work-Like-a-Dog.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 05"
+    }
+  ]
+}
