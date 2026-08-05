@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Aug 4, 2026 \u00b7 8:14 AM UTC",
-  "today": "2026-08-04",
+  "scraped_at": "Aug 5, 2026 \u00b7 8:13 AM UTC",
+  "today": "2026-08-05",
   "order": [
-    "2026-08-03",
     "2026-08-04",
-    "2026-08-05"
+    "2026-08-05",
+    "2026-08-06"
   ],
   "days": {
-    "2026-08-03": {
-      "date": "2026-08-03",
-      "label": "Monday, August 3, 2026",
-      "weekday": "MON",
-      "month_day": "AUG 3",
-      "source": "https://nationaltoday.com/august-3/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Friendship Day",
-          "url": "https://nationaltoday.com/friendship-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/shutterstock_1839778960-1.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "National Watermelon Day",
-          "url": "https://nationaltoday.com/national-watermelon-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-watermelon-day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Big Forehead Day",
-          "url": "https://nationaltoday.com/big-forehead-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568145-min.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Clean Your Floors Day",
-          "url": "https://nationaltoday.com/clean-your-floors-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/8-Floors-Day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Cloves Syndrome Awareness Day",
-          "url": "https://nationaltoday.com/cloves-syndrome-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/27-Clove.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Commerce Day",
-          "url": "https://nationaltoday.com/commerce-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/4-Iceland.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Festival Monday",
-          "url": "https://nationaltoday.com/festival-monday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/23-Festival-Week.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Kadooment Day",
-          "url": "https://nationaltoday.com/kadooment-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Kadooment-Day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Kiribati Youth Day",
-          "url": "https://nationaltoday.com/kiribati-youth-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Kiribati-Youth-Day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Makira-Ulawa Province Day",
-          "url": "https://nationaltoday.com/makira-ulawa-province-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Makira-Ulawa-Province-Day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Martyrdom of Imam Reza",
-          "url": "https://nationaltoday.com/martyrdom-of-imam-reza/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Martyrdom-of-Imam-Reza.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "National Grab Some Nuts Day",
-          "url": "https://nationaltoday.com/national-grab-some-nuts-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/GRAB-SOME-NUTS.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "Pidjiguiti Day",
-          "url": "https://nationaltoday.com/pidjiguiti-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Pidjiguiti-Day.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        },
-        {
-          "name": "World Alternative Games",
-          "url": "https://nationaltoday.com/world-alternative-games/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Alternative-Games.jpg",
-          "weekday": "MON",
-          "month_day": "AUG 03"
-        }
-      ]
-    },
     "2026-08-04": {
       "date": "2026-08-04",
       "label": "Tuesday, August 4, 2026",
@@ -342,6 +234,128 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Work-Like-a-Dog.jpg",
           "weekday": "WED",
           "month_day": "AUG 05"
+        }
+      ]
+    },
+    "2026-08-06": {
+      "date": "2026-08-06",
+      "label": "Thursday, August 6, 2026",
+      "weekday": "THU",
+      "month_day": "AUG 6",
+      "source": "https://nationaltoday.com/august-6/",
+      "count": 16,
+      "holidays": [
+        {
+          "name": "Finish Your Degree Day",
+          "url": "https://nationaltoday.com/finish-your-degree-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2025/07/finish-your-degree-day-2.png",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "National Root Beer Float Day",
+          "url": "https://nationaltoday.com/national-root-beer-float-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Root-Beer-Float.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Regatta Day",
+          "url": "https://nationaltoday.com/regatta-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Regatta.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Balloons to Heaven Day",
+          "url": "https://nationaltoday.com/balloons-to-heaven-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/10-Balloons.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Bolivia Independence Day",
+          "url": "https://nationaltoday.com/bolivia-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/BOLIVIA-INDEPENDENCE-DAY.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Celebrations of San Salvador",
+          "url": "https://nationaltoday.com/celebrations-of-san-salvador/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/32-Celebrations-of-San-Salvador.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Farmworker Appreciation Day",
+          "url": "https://nationaltoday.com/farmworker-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Farmworker-Appreciation-Day.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Fiesta de San Salvador",
+          "url": "https://nationaltoday.com/fiesta-de-san-salvador/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/21-Fiesta-de-San-Salvador.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Fiesta Patronales Holiday",
+          "url": "https://nationaltoday.com/fiesta-patronales-holiday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Fiesta-Patronales-Holiday.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Hiroshima Day",
+          "url": "https://nationaltoday.com/hiroshima-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/hiroshima-day-min-1.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "India Pale Ale Day",
+          "url": "https://nationaltoday.com/india-pale-ale-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-109-min.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Jamaica Independence Day",
+          "url": "https://nationaltoday.com/jamaica-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-26-min.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "National Fresh Breath Day",
+          "url": "https://nationaltoday.com/national-fresh-breath-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/nationa-fresh-breathe-day.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "National IPA Day (India Pale Ale Beer)",
+          "url": "https://nationaltoday.com/national-ipa-day-india-pale-ale-beer/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-IPA-Day-India-Pale-Ale-Beer.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "National Wiggle Your Toes Day",
+          "url": "https://nationaltoday.com/national-wiggle-your-toes-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/national-wiggle-your-toes-day-2.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
+        },
+        {
+          "name": "Sailor Moon Day",
+          "url": "https://nationaltoday.com/sailor-moon-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/International-Sailor-Moon-Day.jpg",
+          "weekday": "THU",
+          "month_day": "AUG 06"
         }
       ]
     }
