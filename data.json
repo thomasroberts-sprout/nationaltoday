@@ -1,162 +1,12 @@
 {
-  "scraped_at": "Aug 5, 2026 \u00b7 8:13 AM UTC",
-  "today": "2026-08-05",
+  "scraped_at": "Aug 6, 2026 \u00b7 8:12 AM UTC",
+  "today": "2026-08-06",
   "order": [
-    "2026-08-04",
     "2026-08-05",
-    "2026-08-06"
+    "2026-08-06",
+    "2026-08-07"
   ],
   "days": {
-    "2026-08-04": {
-      "date": "2026-08-04",
-      "label": "Tuesday, August 4, 2026",
-      "weekday": "TUE",
-      "month_day": "AUG 4",
-      "source": "https://nationaltoday.com/august-4/",
-      "count": 20,
-      "holidays": [
-        {
-          "name": "Civic Holiday",
-          "url": "https://nationaltoday.com/civic-holiday-canada/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/provincial-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "National Chocolate Chip Cookie Day",
-          "url": "https://nationaltoday.com/national-chocolate-chip-cookie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-chocolate-chip-cookie-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Assistance Dog Day",
-          "url": "https://nationaltoday.com/assistance-dog-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Assistance-Dog-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "British Columbia Day",
-          "url": "https://nationaltoday.com/british-columbia-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/british-columbia-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Cook Islands Constitution Day",
-          "url": "https://nationaltoday.com/cook-islands-constitution-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/5-Cooks-Island.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Culturama Day",
-          "url": "https://nationaltoday.com/culturama-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Culturama-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Founder's Day",
-          "url": "https://nationaltoday.com/founders-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/11-Ghana.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Heritage Day Alberta",
-          "url": "https://nationaltoday.com/heritage-day-alberta/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Heritage-Day-in-Alberta-1.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Hooray for Kids Day",
-          "url": "https://nationaltoday.com/hooray-for-kids-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/9-Hooray.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "International Clouded Leopard Day",
-          "url": "https://nationaltoday.com/international-clouded-leopard-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/International-Clouded-Leopard-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Matice Slovenska Day",
-          "url": "https://nationaltoday.com/matice-slovenska-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/39-Matice-Slovenska-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Natal Day",
-          "url": "https://nationaltoday.com/natal-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/natal-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "National Night Out",
-          "url": "https://nationaltoday.com/national-night-out/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/National-Night-Out.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "National White Wine Day",
-          "url": "https://nationaltoday.com/national-white-wine-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Natinal-Wine-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "New Brunswick Day",
-          "url": "https://nationaltoday.com/new-brunswick-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/new-brunswick-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "New South Wales Bank Holiday",
-          "url": "https://nationaltoday.com/new-south-wales-bank-holiday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/new-south-wales-bank-holiday.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Picnic Day NT",
-          "url": "https://nationaltoday.com/picnic-day-nt/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/northern-territory-picnic-day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Single Working Women's Day",
-          "url": "https://nationaltoday.com/single-working-womens-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Single-Working-Womens-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "Terry Fox Day",
-          "url": "https://nationaltoday.com/terry-fox-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Terry-Fox.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        },
-        {
-          "name": "U.S. Coast Guard Birthday",
-          "url": "https://nationaltoday.com/u-s-coast-guard-birthday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/u-s-coast-guard-birthday.jpg",
-          "weekday": "TUE",
-          "month_day": "AUG 04"
-        }
-      ]
-    },
     "2026-08-05": {
       "date": "2026-08-05",
       "label": "Wednesday, August 5, 2026",
@@ -356,6 +206,114 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/International-Sailor-Moon-Day.jpg",
           "weekday": "THU",
           "month_day": "AUG 06"
+        }
+      ]
+    },
+    "2026-08-07": {
+      "date": "2026-08-07",
+      "label": "Friday, August 7, 2026",
+      "weekday": "FRI",
+      "month_day": "AUG 7",
+      "source": "https://nationaltoday.com/august-7/",
+      "count": 14,
+      "holidays": [
+        {
+          "name": "Aged Care Employee Day",
+          "url": "https://nationaltoday.com/aged-care-employee-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Aged-Care-Employee-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Battle of Boyaca",
+          "url": "https://nationaltoday.com/battle-of-boyaca/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Battle-of-Boyaca.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Braham Pie Day",
+          "url": "https://nationaltoday.com/braham-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/braham-pie-day-min-1.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "C\u00f4te d'Ivoire Independence Day",
+          "url": "https://nationaltoday.com/cote-divoire-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Cote-dIvoire-Independence-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Cycle to Work Day",
+          "url": "https://nationaltoday.com/cycle-work-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Cycle-to-Work.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Ivory Coast Independence Day",
+          "url": "https://nationaltoday.com/ivory-coast-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/12-Ivory-Coast.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "National Lighthouse Day",
+          "url": "https://nationaltoday.com/national-lighthouse-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Lighthouse.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "National Raspberries n\u2019 Cream Day",
+          "url": "https://nationaltoday.com/national-raspberries-n-cream-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/30-Raspberries-n-Cream.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "National Sea Serpent Day",
+          "url": "https://nationaltoday.com/national-sea-serpent-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/14-Sea-Serpent.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "National Water Balloon Day",
+          "url": "https://nationaltoday.com/national-water-balloon-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/18-Water-Balloon.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Particularly Preposterous Packaging Day",
+          "url": "https://nationaltoday.com/particularly-preposterous-packaging-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Particularly-Preposterous-Packaging-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Professional Speakers Day",
+          "url": "https://nationaltoday.com/professional-speakers-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/professional-speakers-day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Purple Heart Day",
+          "url": "https://nationaltoday.com/purple-heart-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Purple-Haert-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
+        },
+        {
+          "name": "Umuganura Day",
+          "url": "https://nationaltoday.com/umuganura-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/31-Umuganura-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "AUG 07"
         }
       ]
     }
