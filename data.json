@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Aug 8, 2026 \u00b7 6:31 AM UTC",
-  "today": "2026-08-08",
+  "scraped_at": "Aug 9, 2026 \u00b7 6:35 AM UTC",
+  "today": "2026-08-09",
   "order": [
-    "2026-08-07",
     "2026-08-08",
-    "2026-08-09"
+    "2026-08-09",
+    "2026-08-10"
   ],
   "days": {
-    "2026-08-07": {
-      "date": "2026-08-07",
-      "label": "Friday, August 7, 2026",
-      "weekday": "FRI",
-      "month_day": "AUG 7",
-      "source": "https://nationaltoday.com/august-7/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "Aged Care Employee Day",
-          "url": "https://nationaltoday.com/aged-care-employee-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Aged-Care-Employee-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Battle of Boyaca",
-          "url": "https://nationaltoday.com/battle-of-boyaca/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Battle-of-Boyaca.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Braham Pie Day",
-          "url": "https://nationaltoday.com/braham-pie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/braham-pie-day-min-1.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "C\u00f4te d'Ivoire Independence Day",
-          "url": "https://nationaltoday.com/cote-divoire-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Cote-dIvoire-Independence-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Cycle to Work Day",
-          "url": "https://nationaltoday.com/cycle-work-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/02/Cycle-to-Work.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Ivory Coast Independence Day",
-          "url": "https://nationaltoday.com/ivory-coast-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/12-Ivory-Coast.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "National Lighthouse Day",
-          "url": "https://nationaltoday.com/national-lighthouse-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Lighthouse.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "National Raspberries n\u2019 Cream Day",
-          "url": "https://nationaltoday.com/national-raspberries-n-cream-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/30-Raspberries-n-Cream.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "National Sea Serpent Day",
-          "url": "https://nationaltoday.com/national-sea-serpent-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/14-Sea-Serpent.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "National Water Balloon Day",
-          "url": "https://nationaltoday.com/national-water-balloon-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/18-Water-Balloon.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Particularly Preposterous Packaging Day",
-          "url": "https://nationaltoday.com/particularly-preposterous-packaging-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Particularly-Preposterous-Packaging-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Professional Speakers Day",
-          "url": "https://nationaltoday.com/professional-speakers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/professional-speakers-day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Purple Heart Day",
-          "url": "https://nationaltoday.com/purple-heart-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/07/Purple-Haert-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        },
-        {
-          "name": "Umuganura Day",
-          "url": "https://nationaltoday.com/umuganura-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/31-Umuganura-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 07"
-        }
-      ]
-    },
     "2026-08-08": {
       "date": "2026-08-08",
       "label": "Saturday, August 8, 2026",
@@ -433,6 +325,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Veep-Day.jpg",
           "weekday": "SUN",
           "month_day": "AUG 09"
+        }
+      ]
+    },
+    "2026-08-10": {
+      "date": "2026-08-10",
+      "label": "Monday, August 10, 2026",
+      "weekday": "MON",
+      "month_day": "AUG 10",
+      "source": "https://nationaltoday.com/august-10/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "National Lazy Day",
+          "url": "https://nationaltoday.com/national-lazy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/lazy-day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "National Spoil Your Dog Day",
+          "url": "https://nationaltoday.com/national-spoil-your-dog-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-spoil-dog-day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Abai Day",
+          "url": "https://nationaltoday.com/abai-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/47-Abai-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Ascent of Saint Dominic",
+          "url": "https://nationaltoday.com/ascent-of-saint-dominic/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Ascent-of-Saint-Dominic.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Dean Day",
+          "url": "https://nationaltoday.com/dean-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/30-National-Dean-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Duran Duran Appreciation Day",
+          "url": "https://nationaltoday.com/duran-duran-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Duran-Duran-Appreciation-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Ecuador Independence Day",
+          "url": "https://nationaltoday.com/ecuador-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Ecuadors-Independence-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Ekka People's Day",
+          "url": "https://nationaltoday.com/ekka-peoples-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Ekka-Peoples-Day-1.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Herbert Hoover Day",
+          "url": "https://nationaltoday.com/herbert-hoover-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Herbert-Hoover-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "International Biodiesel Day",
+          "url": "https://nationaltoday.com/international-biodiesel-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568332-min.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "National Connecticut Day",
+          "url": "https://nationaltoday.com/national-connecticut-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Connecticut-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "National S\u2019mores Day",
+          "url": "https://nationaltoday.com/national-smores-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Smores.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "National Shapewear Day",
+          "url": "https://nationaltoday.com/national-shapewear-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/NATIONAL-SHAPEWEAR-DAY.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "National SKI Citrus Soda Day",
+          "url": "https://nationaltoday.com/national-ski-citrus-soda-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-SKI-Citrus-Soda-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Update Your Bio Day",
+          "url": "https://nationaltoday.com/update-your-bio-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Update-Your-Bio-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Victory Day USA",
+          "url": "https://nationaltoday.com/victory-day-usa/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-27-min.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "Vlogging Day",
+          "url": "https://nationaltoday.com/vlogging-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/VLOGGING-DAY.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
+        },
+        {
+          "name": "World Lion Day",
+          "url": "https://nationaltoday.com/world-lion-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/World-Lion-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 10"
         }
       ]
     }
