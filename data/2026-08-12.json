@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-12",
+  "label": "Wednesday, August 12, 2026",
+  "weekday": "WED",
+  "month_day": "AUG 12",
+  "source": "https://nationaltoday.com/august-12/",
+  "count": 11,
+  "holidays": [
+    {
+      "name": "International Youth Day",
+      "url": "https://nationaltoday.com/international-youth-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/international-youth-day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "Glorious Twelfth",
+      "url": "https://nationaltoday.com/glorious-twelfth/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/THE-GLORIOUS-TWELFTH.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "IBM PC Day",
+      "url": "https://nationaltoday.com/ibm-pc-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/08/20-IBM-PC-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "Middle Child Day",
+      "url": "https://nationaltoday.com/middle-child-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-middle-child-day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "Milkman Day",
+      "url": "https://nationaltoday.com/milkman-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Milkman-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "Mother's Day in Thailand",
+      "url": "https://nationaltoday.com/mothers-day-in-thailand/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Thailand-Mothers-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "National Gooey Butter Cake Day",
+      "url": "https://nationaltoday.com/national-gooey-butter-cake-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Gooey-Butter-Cake-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "National Julienne Fries Day",
+      "url": "https://nationaltoday.com/national-julienne-fries-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Julienne-Fries-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "National Vinyl Record Day",
+      "url": "https://nationaltoday.com/national-vinyl-record-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Vinyl-Record.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "World Calligraphy Day",
+      "url": "https://nationaltoday.com/world-calligraphy-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/11-World-Calligraphy-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "World Elephant Day",
+      "url": "https://nationaltoday.com/world-elephant-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/World-Elephant.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    }
+  ]
+}
