@@ -4,7 +4,7 @@
   "weekday": "WED",
   "month_day": "AUG 12",
   "source": "https://nationaltoday.com/august-12/",
-  "count": 11,
+  "count": 12,
   "holidays": [
     {
       "name": "International Youth Day",
@@ -66,6 +66,13 @@
       "name": "National Vinyl Record Day",
       "url": "https://nationaltoday.com/national-vinyl-record-day/",
       "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Vinyl-Record.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 12"
+    },
+    {
+      "name": "Royal National Agricultural Show Day Queensland",
+      "url": "https://nationaltoday.com/royal-national-agricultural-show-day-queensland/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/royal-national-agricultural-show-day.jpg",
       "weekday": "WED",
       "month_day": "AUG 12"
     },

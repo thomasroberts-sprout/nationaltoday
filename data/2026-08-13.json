@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-13",
+  "label": "Thursday, August 13, 2026",
+  "weekday": "THU",
+  "month_day": "AUG 13",
+  "source": "https://nationaltoday.com/august-13/",
+  "count": 5,
+  "holidays": [
+    {
+      "name": "Lefthanders Day",
+      "url": "https://nationaltoday.com/lefthanders-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Lefthanders.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 13"
+    },
+    {
+      "name": "National Filet Mignon Day",
+      "url": "https://nationaltoday.com/national-filet-mignon-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Filet-Mignon-Day.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 13"
+    },
+    {
+      "name": "National Prosecco Day",
+      "url": "https://nationaltoday.com/national-prosecco-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Prosecco-1.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 13"
+    },
+    {
+      "name": "Obon Festival",
+      "url": "https://nationaltoday.com/obon-festival/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-17-min.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 13"
+    },
+    {
+      "name": "Women's and Family Day",
+      "url": "https://nationaltoday.com/womens-and-family-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Womens-and-Family-Day.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 13"
+    }
+  ]
+}
