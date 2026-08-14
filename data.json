@@ -1,106 +1,12 @@
 {
-  "scraped_at": "Aug 13, 2026 \u00b7 7:08 AM UTC",
-  "today": "2026-08-13",
+  "scraped_at": "Aug 14, 2026 \u00b7 7:05 AM UTC",
+  "today": "2026-08-14",
   "order": [
-    "2026-08-12",
     "2026-08-13",
-    "2026-08-14"
+    "2026-08-14",
+    "2026-08-15"
   ],
   "days": {
-    "2026-08-12": {
-      "date": "2026-08-12",
-      "label": "Wednesday, August 12, 2026",
-      "weekday": "WED",
-      "month_day": "AUG 12",
-      "source": "https://nationaltoday.com/august-12/",
-      "count": 12,
-      "holidays": [
-        {
-          "name": "International Youth Day",
-          "url": "https://nationaltoday.com/international-youth-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/international-youth-day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "Glorious Twelfth",
-          "url": "https://nationaltoday.com/glorious-twelfth/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/THE-GLORIOUS-TWELFTH.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "IBM PC Day",
-          "url": "https://nationaltoday.com/ibm-pc-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/20-IBM-PC-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "Middle Child Day",
-          "url": "https://nationaltoday.com/middle-child-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-middle-child-day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "Milkman Day",
-          "url": "https://nationaltoday.com/milkman-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Milkman-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "Mother's Day in Thailand",
-          "url": "https://nationaltoday.com/mothers-day-in-thailand/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Thailand-Mothers-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "National Gooey Butter Cake Day",
-          "url": "https://nationaltoday.com/national-gooey-butter-cake-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Gooey-Butter-Cake-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "National Julienne Fries Day",
-          "url": "https://nationaltoday.com/national-julienne-fries-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Julienne-Fries-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "National Vinyl Record Day",
-          "url": "https://nationaltoday.com/national-vinyl-record-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Vinyl-Record.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "Royal National Agricultural Show Day Queensland",
-          "url": "https://nationaltoday.com/royal-national-agricultural-show-day-queensland/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/royal-national-agricultural-show-day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "World Calligraphy Day",
-          "url": "https://nationaltoday.com/world-calligraphy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/11-World-Calligraphy-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        },
-        {
-          "name": "World Elephant Day",
-          "url": "https://nationaltoday.com/world-elephant-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/World-Elephant.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 12"
-        }
-      ]
-    },
     "2026-08-13": {
       "date": "2026-08-13",
       "label": "Thursday, August 13, 2026",
@@ -251,6 +157,177 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Lizard-Day.jpg",
           "weekday": "FRI",
           "month_day": "AUG 14"
+        }
+      ]
+    },
+    "2026-08-15": {
+      "date": "2026-08-15",
+      "label": "Saturday, August 15, 2026",
+      "weekday": "SAT",
+      "month_day": "AUG 15",
+      "source": "https://nationaltoday.com/august-15/",
+      "count": 23,
+      "holidays": [
+        {
+          "name": "National Shoe Donation Day",
+          "url": "https://nationaltoday.com/national-shoe-donation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2025/07/shoe-donation-Copy.png",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Assumption of Mary (Spain)",
+          "url": "https://nationaltoday.com/assumption-of-mary-spain/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/25-Assumption-of-Mary-Spain.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Chant at the Moon Day",
+          "url": "https://nationaltoday.com/chant-at-the-moon-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/chant-at-the-moon-day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Check the Chip Day",
+          "url": "https://nationaltoday.com/check-the-chip-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/5-Check-the-Chip.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Feast of Assumption (Chile)",
+          "url": "https://nationaltoday.com/feast-of-assumption-chile/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568136-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Feast of the Assumption",
+          "url": "https://nationaltoday.com/feast-of-the-assumption/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/feast-assumption.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Flooding of the Nile",
+          "url": "https://nationaltoday.com/flooding-of-the-nile/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Flooding-of-the-Nile.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Foundation of Old Panama City",
+          "url": "https://nationaltoday.com/foundation-of-old-panama-city/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Foundation-of-Old-Panama-City.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Founding of Asuncion in Paraguay",
+          "url": "https://nationaltoday.com/founding-of-asuncion-in-paraguay/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568326-min-1.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Gold Cup Parade",
+          "url": "https://nationaltoday.com/gold-cup-parade/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/gold-cup-parade.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "India Independence Day",
+          "url": "https://nationaltoday.com/india-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/indian-independence.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "International Geocaching Day",
+          "url": "https://nationaltoday.com/international-geocaching-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Geocaching.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Liechtenstein National Day",
+          "url": "https://nationaltoday.com/liechtenstein-national-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Liechtenstein-National-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "Malaita Province Day",
+          "url": "https://nationaltoday.com/malaita-province-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Malaita-Province-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National Acadian Day",
+          "url": "https://nationaltoday.com/national-arcadian-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/tre56788-1-min-1.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National Leathercraft Day",
+          "url": "https://nationaltoday.com/national-leathercraft-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Leathercraft-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National Lemon Meringue Pie Day",
+          "url": "https://nationaltoday.com/national-lemon-meringue-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-Lemon-Meringue-Pie-Day-1.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National Liberation Day of Korea",
+          "url": "https://nationaltoday.com/national-liberation-day-of-korea/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Liberation-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National No Sponge Bob Day",
+          "url": "https://nationaltoday.com/national-no-sponge-bob-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/No-SpongeBob-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "National Relaxation Day",
+          "url": "https://nationaltoday.com/national-relaxation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-relaxation-day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "St Mary's Day",
+          "url": "https://nationaltoday.com/st-marys-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/St-Marys-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "World Greatness Day",
+          "url": "https://nationaltoday.com/world-greatness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Greatness-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
+        },
+        {
+          "name": "World Honey Bee Day",
+          "url": "https://nationaltoday.com/world-honey-bee-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/world-honey-bee-day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 15"
         }
       ]
     }
