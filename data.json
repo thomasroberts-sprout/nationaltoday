@@ -1,120 +1,12 @@
 {
-  "scraped_at": "Aug 15, 2026 \u00b7 6:18 AM UTC",
-  "today": "2026-08-15",
+  "scraped_at": "Aug 16, 2026 \u00b7 6:19 AM UTC",
+  "today": "2026-08-16",
   "order": [
-    "2026-08-14",
     "2026-08-15",
-    "2026-08-16"
+    "2026-08-16",
+    "2026-08-17"
   ],
   "days": {
-    "2026-08-14": {
-      "date": "2026-08-14",
-      "label": "Friday, August 14, 2026",
-      "weekday": "FRI",
-      "month_day": "AUG 14",
-      "source": "https://nationaltoday.com/august-14/",
-      "count": 14,
-      "holidays": [
-        {
-          "name": "National Financial Awareness Day",
-          "url": "https://nationaltoday.com/national-financial-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/money-100-bill.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Pakistan Independence Day",
-          "url": "https://nationaltoday.com/pakistan-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Pakistan-Independence-1.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Anniversary of the Recovery Oued Ed-Dahab",
-          "url": "https://nationaltoday.com/anniversary-of-the-recovery-oued-ed-dahab/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Anniversary-of-the-Recovery-Oued-Ed-Dahab.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Falklands Day",
-          "url": "https://nationaltoday.com/falklands-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/22-Falklands.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Love Your Bookshop Day",
-          "url": "https://nationaltoday.com/love-your-bookshop-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/21-Bookshop.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Maldives: Qaumee Dhuvas",
-          "url": "https://nationaltoday.com/maldives-qaumee-dhuvas/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/24-Maldives-Qaumee-Dhuvas.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "National Creamsicle Day",
-          "url": "https://nationaltoday.com/national-creamsicle-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Creamsicle.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "National Spirit of \u201945 Day",
-          "url": "https://nationaltoday.com/national-spirit-of-45-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568331-min.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "National Tattoo Removal Day",
-          "url": "https://nationaltoday.com/national-tattoo-removal-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/37-Tattoo-Removal.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Navajo Code Talkers Day",
-          "url": "https://nationaltoday.com/navajo-code-talkers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Navajo-Code-Talkers-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Pramuka Day",
-          "url": "https://nationaltoday.com/pramuka-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/38-Pramuka-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Shop Online for Groceries Day",
-          "url": "https://nationaltoday.com/shop-online-for-groceries-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/33-Online-Groceries.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "Vigil of Assumption Day",
-          "url": "https://nationaltoday.com/vigil-of-assumption-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Vigil-of-Assumption-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        },
-        {
-          "name": "World Lizard Day",
-          "url": "https://nationaltoday.com/world-lizard-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Lizard-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 14"
-        }
-      ]
-    },
     "2026-08-15": {
       "date": "2026-08-15",
       "label": "Saturday, August 15, 2026",
@@ -398,6 +290,100 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/07/31-St.-Rochs-Day.jpg",
           "weekday": "SUN",
           "month_day": "AUG 16"
+        }
+      ]
+    },
+    "2026-08-17": {
+      "date": "2026-08-17",
+      "label": "Monday, August 17, 2026",
+      "weekday": "MON",
+      "month_day": "AUG 17",
+      "source": "https://nationaltoday.com/august-17/",
+      "count": 12,
+      "holidays": [
+        {
+          "name": "Black Cat Appreciation Day",
+          "url": "https://nationaltoday.com/black-cat-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-black-cat-appreciation-day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "Baby Boomers Recognition Day",
+          "url": "https://nationaltoday.com/baby-boomers-recognition-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Baby-Boomers-Recognition-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "Gabon Independence Day",
+          "url": "https://nationaltoday.com/gabon-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/3-Gabon-Independence.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "Indonesia Independence Day",
+          "url": "https://nationaltoday.com/indonesia-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/INDONESIA-INDEPENDENCE-DAY.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "Nag Panchami",
+          "url": "https://nationaltoday.com/nag-panchami/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/20-nag-panchami.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "National I LOVE My feet Day",
+          "url": "https://nationaltoday.com/national-i-love-my-feet-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-I-Love-My-Feet-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "National Massachusetts Day",
+          "url": "https://nationaltoday.com/national-massachusetts-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Massachusetts-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "National Nonprofit Day",
+          "url": "https://nationaltoday.com/national-nonprofit-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Nonprofit-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "National Thrift Shop Day",
+          "url": "https://nationaltoday.com/national-thrift-shop-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Thrift-Shop.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "National Workers\u2019 Comp Adjuster Day",
+          "url": "https://nationaltoday.com/national-workers-comp-adjuster-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/33-National-Workers-Comp-Adjuster-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "San Martin Day",
+          "url": "https://nationaltoday.com/san-martin-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/San-Martin-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
+        },
+        {
+          "name": "Slovenians in Prekmurje Incorporated into the Mother Nation Day",
+          "url": "https://nationaltoday.com/slovenians-in-prekmurje-incorporated-into-the-mother-nation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/7-Slovenians-in-Prekmurje-Incorporated.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 17"
         }
       ]
     }
