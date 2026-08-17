@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-18",
+  "label": "Tuesday, August 18, 2026",
+  "weekday": "TUE",
+  "month_day": "AUG 18",
+  "source": "https://nationaltoday.com/august-18/",
+  "count": 12,
+  "holidays": [
+    {
+      "name": "National Couples Day",
+      "url": "https://nationaltoday.com/national-couples-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Couples.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "National Fajita Day",
+      "url": "https://nationaltoday.com/national-fajita-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Fajita-2.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Bad Poetry Day",
+      "url": "https://nationaltoday.com/bad-poetry-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Bad-Poetry-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Discovery Day",
+      "url": "https://nationaltoday.com/discovery-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/discovery-day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Indonesia Constitution Day",
+      "url": "https://nationaltoday.com/indonesia-constitution-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Constitution-Day-in-Indonesia.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Long Tan Day",
+      "url": "https://nationaltoday.com/long-tan-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/10-Long-Tan-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "National Ice Cream Pie Day",
+      "url": "https://nationaltoday.com/national-ice-cream-pie-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-Ice-Cream-Pie-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "National Mail Order Catalog Day",
+      "url": "https://nationaltoday.com/national-mail-order-catalog-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Mail-Order-Catalog-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Never Give Up Day",
+      "url": "https://nationaltoday.com/never-give-up-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Never-Give-Up-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Pinot Noir Day",
+      "url": "https://nationaltoday.com/pinot-noir-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Pinot-Noir-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "Serendipity Day",
+      "url": "https://nationaltoday.com/serendipity-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Serendipity-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    },
+    {
+      "name": "World Breast Cancer Research Day",
+      "url": "https://nationaltoday.com/world-breast-cancer-research-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/World-Breast-Cancer-Research-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 18"
+    }
+  ]
+}
