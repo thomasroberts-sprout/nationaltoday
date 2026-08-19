@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-20",
+  "label": "Thursday, August 20, 2026",
+  "weekday": "THU",
+  "month_day": "AUG 20",
+  "source": "https://nationaltoday.com/august-20/",
+  "count": 7,
+  "holidays": [
+    {
+      "name": "Anniversary of the Revolution of the King and the People",
+      "url": "https://nationaltoday.com/anniversary-of-the-revolution-of-the-king-and-the-people/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-98-min.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "Hungary National Day",
+      "url": "https://nationaltoday.com/hungary-national-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/8-Hungary-National-Day.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "National Bacon Lovers Day",
+      "url": "https://nationaltoday.com/national-bacon-lovers-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567929-min.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "National Chocolate Pecan Pie Day",
+      "url": "https://nationaltoday.com/national-chocolate-pecan-pie-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Chocolate-Pecan-Pie.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "National Radio Day",
+      "url": "https://nationaltoday.com/national-radio-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Radio.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "St. Stephen\u2019s Day Hungary",
+      "url": "https://nationaltoday.com/st-stephens-day-hungary/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/04/St.-Stephens.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    },
+    {
+      "name": "World Mosquito Day",
+      "url": "https://nationaltoday.com/world-mosquito-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Mosquito.jpg",
+      "weekday": "THU",
+      "month_day": "AUG 20"
+    }
+  ]
+}
