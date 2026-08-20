@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-21",
+  "label": "Friday, August 21, 2026",
+  "weekday": "FRI",
+  "month_day": "AUG 21",
+  "source": "https://nationaltoday.com/august-21/",
+  "count": 10,
+  "holidays": [
+    {
+      "name": "Hawaiian Shirt Day",
+      "url": "https://nationaltoday.com/hawaiian-shirt-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/28-Hawaiian-Shirt-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+      "url": "https://nationaltoday.com/international-day-of-remembrance-and-tribute-to-the-victims-of-terrorism/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567917-min.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "Internet Self-Care Day",
+      "url": "https://nationaltoday.com/internet-self-care-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Internet-Self-Care-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Brazilian Blowout Day",
+      "url": "https://nationaltoday.com/national-brazilian-blowout-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Brazilian-Blowout-Day-.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Kool Aid Day",
+      "url": "https://nationaltoday.com/national-kool-aid-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Kool-Aid-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Men's Grooming Day",
+      "url": "https://nationaltoday.com/national-mens-grooming-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Mens-Grooming-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Report Upcoding Fraud Day",
+      "url": "https://nationaltoday.com/national-report-upcoding-fraud-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-90-min.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Senior Citizens Day",
+      "url": "https://nationaltoday.com/national-senior-citizens-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Senior-Citizens.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "National Spumoni Day",
+      "url": "https://nationaltoday.com/national-spumoni-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Spumoni-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    },
+    {
+      "name": "Ninoy Aquino Day",
+      "url": "https://nationaltoday.com/ninoy-aquino-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Ninoy-Aquino.jpg",
+      "weekday": "FRI",
+      "month_day": "AUG 21"
+    }
+  ]
+}

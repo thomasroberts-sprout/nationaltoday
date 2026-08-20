@@ -4,8 +4,15 @@
   "weekday": "WED",
   "month_day": "AUG 19",
   "source": "https://nationaltoday.com/august-19/",
-  "count": 14,
+  "count": 15,
   "holidays": [
+    {
+      "name": "National Patient Advocacy Day",
+      "url": "https://nationaltoday.com/national-patient-advocacy-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Header-option-5.png",
+      "weekday": "WED",
+      "month_day": "AUG 19"
+    },
     {
       "name": "National Potato Day",
       "url": "https://nationaltoday.com/national-potato-day/",
