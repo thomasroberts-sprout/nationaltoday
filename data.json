@@ -1,127 +1,12 @@
 {
-  "scraped_at": "Aug 20, 2026 \u00b7 6:24 AM UTC",
-  "today": "2026-08-20",
+  "scraped_at": "Aug 21, 2026 \u00b7 6:24 AM UTC",
+  "today": "2026-08-21",
   "order": [
-    "2026-08-19",
     "2026-08-20",
-    "2026-08-21"
+    "2026-08-21",
+    "2026-08-22"
   ],
   "days": {
-    "2026-08-19": {
-      "date": "2026-08-19",
-      "label": "Wednesday, August 19, 2026",
-      "weekday": "WED",
-      "month_day": "AUG 19",
-      "source": "https://nationaltoday.com/august-19/",
-      "count": 15,
-      "holidays": [
-        {
-          "name": "National Patient Advocacy Day",
-          "url": "https://nationaltoday.com/national-patient-advocacy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Header-option-5.png",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "National Potato Day",
-          "url": "https://nationaltoday.com/national-potato-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-potato-day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "World Humanitarian Day",
-          "url": "https://nationaltoday.com/world-humanitarian-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/world-humanitarian-day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "Afghanistan Independence Day",
-          "url": "https://nationaltoday.com/afghanistan-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/6-Afghanistan-Independence-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "Crown Princess Mette-Marit's day",
-          "url": "https://nationaltoday.com/crown-princess-mette-marits-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/14-Crown-Princess-Mette-Marit.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "International Bow Day",
-          "url": "https://nationaltoday.com/international-bow-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/International-Bow-Day-.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "International Orangutan Day",
-          "url": "https://nationaltoday.com/international-orangutan-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/International-Orangutan-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "JUV\u00c9DERM Day",
-          "url": "https://nationaltoday.com/juvederm-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2023/07/Frame-1-33-min.png",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "National Aviation Day",
-          "url": "https://nationaltoday.com/national-aviation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Aviation.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "National Photography Day",
-          "url": "https://nationaltoday.com/national-photography-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Photography-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "National Soft Ice Cream Day",
-          "url": "https://nationaltoday.com/national-soft-ice-cream-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Soft-Ice-Cream.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "Qixi Festival",
-          "url": "https://nationaltoday.com/qixi-festival/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Qixi-Festival.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "Revolution Commemoration Day",
-          "url": "https://nationaltoday.com/revolution-commemoration-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/15-Vietnam.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "Saviours of the Apple Feast Day",
-          "url": "https://nationaltoday.com/saviours-of-the-apple-feast-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/Saviours-of-the-Apple-Feast-Day.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        },
-        {
-          "name": "World Photo Day",
-          "url": "https://nationaltoday.com/world-photo-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Photo.jpg",
-          "weekday": "WED",
-          "month_day": "AUG 19"
-        }
-      ]
-    },
     "2026-08-20": {
       "date": "2026-08-20",
       "label": "Thursday, August 20, 2026",
@@ -258,6 +143,107 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Ninoy-Aquino.jpg",
           "weekday": "FRI",
           "month_day": "AUG 21"
+        }
+      ]
+    },
+    "2026-08-22": {
+      "date": "2026-08-22",
+      "label": "Saturday, August 22, 2026",
+      "weekday": "SAT",
+      "month_day": "AUG 22",
+      "source": "https://nationaltoday.com/august-22/",
+      "count": 13,
+      "holidays": [
+        {
+          "name": "Be An Angel Day",
+          "url": "https://nationaltoday.com/be-an-angel-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/07/Be-An-Angel-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "Folklore Day",
+          "url": "https://nationaltoday.com/folklore-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Folklore-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief",
+          "url": "https://nationaltoday.com/international-day-commemorating-the-victims-of-acts-of-violence-based-on-religion-or-belief/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/lkjhgfhjkl-11-min-1.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "Martyrdom of Imam Hassan Asgari",
+          "url": "https://nationaltoday.com/martyrdom-of-imam-hassan-asgari/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/32-Imam-Hassan-Asgari.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "National Bao Day",
+          "url": "https://nationaltoday.com/national-bao-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Bao-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "National Pecan Torte Day",
+          "url": "https://nationaltoday.com/national-pecan-torte-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-Pecan-Torte-Day-2.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "National Surgical Oncologist Day",
+          "url": "https://nationaltoday.com/national-surgical-oncologist-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Surgical-Oncologist-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "National Take Your Cat to the Vet Day",
+          "url": "https://nationaltoday.com/national-take-your-cat-to-the-vet-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-take-your-cat-to-the-vet-day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "National Tooth Fairy Day",
+          "url": "https://nationaltoday.com/national-tooth-fairy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/tooth-fairy.png",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "Never Bean Better Day",
+          "url": "https://nationaltoday.com/never-bean-better-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Never-Been-Better-Day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "Rainbow Baby Day",
+          "url": "https://nationaltoday.com/rainbow-baby-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/13-Rainbow-Baby.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "Russian Flag Day",
+          "url": "https://nationaltoday.com/russian-flag-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-18-min.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
+        },
+        {
+          "name": "World Plant Milk Day",
+          "url": "https://nationaltoday.com/world-plant-milk-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/world-plant-milk-day.jpg",
+          "weekday": "SAT",
+          "month_day": "AUG 22"
         }
       ]
     }
