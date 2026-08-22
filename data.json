@@ -1,71 +1,12 @@
 {
-  "scraped_at": "Aug 21, 2026 \u00b7 6:24 AM UTC",
-  "today": "2026-08-21",
+  "scraped_at": "Aug 22, 2026 \u00b7 6:19 AM UTC",
+  "today": "2026-08-22",
   "order": [
-    "2026-08-20",
     "2026-08-21",
-    "2026-08-22"
+    "2026-08-22",
+    "2026-08-23"
   ],
   "days": {
-    "2026-08-20": {
-      "date": "2026-08-20",
-      "label": "Thursday, August 20, 2026",
-      "weekday": "THU",
-      "month_day": "AUG 20",
-      "source": "https://nationaltoday.com/august-20/",
-      "count": 7,
-      "holidays": [
-        {
-          "name": "Anniversary of the Revolution of the King and the People",
-          "url": "https://nationaltoday.com/anniversary-of-the-revolution-of-the-king-and-the-people/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-98-min.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "Hungary National Day",
-          "url": "https://nationaltoday.com/hungary-national-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/8-Hungary-National-Day.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "National Bacon Lovers Day",
-          "url": "https://nationaltoday.com/national-bacon-lovers-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567929-min.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "National Chocolate Pecan Pie Day",
-          "url": "https://nationaltoday.com/national-chocolate-pecan-pie-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Chocolate-Pecan-Pie.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "National Radio Day",
-          "url": "https://nationaltoday.com/national-radio-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Radio.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "St. Stephen\u2019s Day Hungary",
-          "url": "https://nationaltoday.com/st-stephens-day-hungary/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/04/St.-Stephens.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        },
-        {
-          "name": "World Mosquito Day",
-          "url": "https://nationaltoday.com/world-mosquito-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Mosquito.jpg",
-          "weekday": "THU",
-          "month_day": "AUG 20"
-        }
-      ]
-    },
     "2026-08-21": {
       "date": "2026-08-21",
       "label": "Friday, August 21, 2026",
@@ -244,6 +185,100 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2019/08/world-plant-milk-day.jpg",
           "weekday": "SAT",
           "month_day": "AUG 22"
+        }
+      ]
+    },
+    "2026-08-23": {
+      "date": "2026-08-23",
+      "label": "Sunday, August 23, 2026",
+      "weekday": "SUN",
+      "month_day": "AUG 23",
+      "source": "https://nationaltoday.com/august-23/",
+      "count": 12,
+      "holidays": [
+        {
+          "name": "Health Unit Coordinators Day",
+          "url": "https://nationaltoday.com/health-unit-coordinators-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/health-unit-coordinators-day.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "National Sponge Cake Day",
+          "url": "https://nationaltoday.com/national-sponge-cake-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/sponge-cake-1.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Cheap Flight Day",
+          "url": "https://nationaltoday.com/cheap-flight-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2018/08/cheap-flight-day.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Day for Remembrance of the Slave Trade and Its Abolition",
+          "url": "https://nationaltoday.com/day-for-remembrance-of-the-slave-trade-and-its-abolition/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-88-min.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Day of the National Flag",
+          "url": "https://nationaltoday.com/day-of-the-national-flag/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Day-of-the-National-Flag.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "European Day of Remembrance for Victims of Stalinism and Nazism",
+          "url": "https://nationaltoday.com/european-day-of-remembrance-for-victims-of-stalinism-and-nazism/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/1-Victims-of-Stalinism-and-Nazism.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Find Your Inner Nerd Day",
+          "url": "https://nationaltoday.com/find-your-inner-nerd-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/05/Find-Your-Inner-Nerd-Day-Official-min.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "International Day for the Remembrance of the Slave Trade and its Abolition",
+          "url": "https://nationaltoday.com/international-day-for-the-remembrance-of-the-slave-trade-and-its-abolition/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/International-Day-for-the-Remembrance-of-the-Slave-Trade-and-its-Abolition.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "National Cuban Sandwich Day",
+          "url": "https://nationaltoday.com/national-cuban-sandwich-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/CUBAN-SANDWICH-1.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "National Ride The Wind Day",
+          "url": "https://nationaltoday.com/national-ride-the-wind-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Ride-The-Wind-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Slavery Remembrance Day",
+          "url": "https://nationaltoday.com/slavery-remembrance-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Slavery-Remembrance-Day-.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
+        },
+        {
+          "name": "Valentino Day",
+          "url": "https://nationaltoday.com/valentino-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Valentino-Day.jpg",
+          "weekday": "SUN",
+          "month_day": "AUG 23"
         }
       ]
     }
