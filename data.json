@@ -1,92 +1,12 @@
 {
-  "scraped_at": "Aug 22, 2026 \u00b7 6:19 AM UTC",
-  "today": "2026-08-22",
+  "scraped_at": "Aug 23, 2026 \u00b7 6:20 AM UTC",
+  "today": "2026-08-23",
   "order": [
-    "2026-08-21",
     "2026-08-22",
-    "2026-08-23"
+    "2026-08-23",
+    "2026-08-24"
   ],
   "days": {
-    "2026-08-21": {
-      "date": "2026-08-21",
-      "label": "Friday, August 21, 2026",
-      "weekday": "FRI",
-      "month_day": "AUG 21",
-      "source": "https://nationaltoday.com/august-21/",
-      "count": 10,
-      "holidays": [
-        {
-          "name": "Hawaiian Shirt Day",
-          "url": "https://nationaltoday.com/hawaiian-shirt-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/28-Hawaiian-Shirt-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "International Day of Remembrance and Tribute to the Victims of Terrorism",
-          "url": "https://nationaltoday.com/international-day-of-remembrance-and-tribute-to-the-victims-of-terrorism/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567917-min.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "Internet Self-Care Day",
-          "url": "https://nationaltoday.com/internet-self-care-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Internet-Self-Care-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Brazilian Blowout Day",
-          "url": "https://nationaltoday.com/national-brazilian-blowout-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/National-Brazilian-Blowout-Day-.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Kool Aid Day",
-          "url": "https://nationaltoday.com/national-kool-aid-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Kool-Aid-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Men's Grooming Day",
-          "url": "https://nationaltoday.com/national-mens-grooming-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Mens-Grooming-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Report Upcoding Fraud Day",
-          "url": "https://nationaltoday.com/national-report-upcoding-fraud-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-90-min.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Senior Citizens Day",
-          "url": "https://nationaltoday.com/national-senior-citizens-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Senior-Citizens.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "National Spumoni Day",
-          "url": "https://nationaltoday.com/national-spumoni-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Spumoni-Day.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        },
-        {
-          "name": "Ninoy Aquino Day",
-          "url": "https://nationaltoday.com/ninoy-aquino-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Ninoy-Aquino.jpg",
-          "weekday": "FRI",
-          "month_day": "AUG 21"
-        }
-      ]
-    },
     "2026-08-22": {
       "date": "2026-08-22",
       "label": "Saturday, August 22, 2026",
@@ -279,6 +199,121 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Valentino-Day.jpg",
           "weekday": "SUN",
           "month_day": "AUG 23"
+        }
+      ]
+    },
+    "2026-08-24": {
+      "date": "2026-08-24",
+      "label": "Monday, August 24, 2026",
+      "weekday": "MON",
+      "month_day": "AUG 24",
+      "source": "https://nationaltoday.com/august-24/",
+      "count": 15,
+      "holidays": [
+        {
+          "name": "National Waffle Day",
+          "url": "https://nationaltoday.com/national-waffle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Waffle.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Burning Man Festival",
+          "url": "https://nationaltoday.com/burning-man-festival/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/10-Burning-Man-Festival.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "International Strange Music Day",
+          "url": "https://nationaltoday.com/international-strange-music-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/International-Strange-Music-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Kobe Bryant Day",
+          "url": "https://nationaltoday.com/kobe-bryant-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Kobe-Bryant.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Liberia Flag Day",
+          "url": "https://nationaltoday.com/liberia-flag-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Flag-Day-in-Liberia.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Melaka Governor's Birthday",
+          "url": "https://nationaltoday.com/melaka-governors-birthday/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4567955-min-1.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "National Emory Day",
+          "url": "https://nationaltoday.com/national-emory-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/National-Emory-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "National Knife Day",
+          "url": "https://nationaltoday.com/national-knife-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Knife-Day-1.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "National Peach Pie Day",
+          "url": "https://nationaltoday.com/national-peach-pie-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/national-peach-pie-day-1.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "National SKAM Artist Day",
+          "url": "https://nationaltoday.com/national-skam-artist-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/44-SKAM-Artist-2.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Pluto Demoted Day",
+          "url": "https://nationaltoday.com/pluto-demoted-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Pluto-Demoted.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "St Bartholomew History",
+          "url": "https://nationaltoday.com/st-bartholomew-history/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/St.-Bartholomews-Day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Ukraine Independence Day",
+          "url": "https://nationaltoday.com/ukraine-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/35-Ukraine-Independence.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "Vesuvius Day",
+          "url": "https://nationaltoday.com/vesuvius-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/mount-versuvius.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
+        },
+        {
+          "name": "William Wilberforce Day",
+          "url": "https://nationaltoday.com/william-wilberforce-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/William-Wilberforce-day.jpg",
+          "weekday": "MON",
+          "month_day": "AUG 24"
         }
       ]
     }
