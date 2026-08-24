@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-25",
+  "label": "Tuesday, August 25, 2026",
+  "weekday": "TUE",
+  "month_day": "AUG 25",
+  "source": "https://nationaltoday.com/august-25/",
+  "count": 11,
+  "holidays": [
+    {
+      "name": "National Banana Split Day",
+      "url": "https://nationaltoday.com/national-banana-split-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-banana-split-day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Birthday of Prophet Muhammad",
+      "url": "https://nationaltoday.com/birthday-of-prophet-muhammad/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-31-min.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Day of Songun",
+      "url": "https://nationaltoday.com/day-of-songun/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Day-of-Songun.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Egypt: Al-Mouled Al-Nabawy",
+      "url": "https://nationaltoday.com/egypt-al-mouled-al-nabawy/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-35-min.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Kiss and Make Up Day",
+      "url": "https://nationaltoday.com/kiss-make-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/04/kiss.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Milad an-Nabi (Mawlid)",
+      "url": "https://nationaltoday.com/milad-nabi-mawlid/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/10/Milad-an-Nabi-Mawlid.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "National Heroes' Day",
+      "url": "https://nationaltoday.com/national-heroes-day-philippines/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/national-heroes-day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "National Park Service Founders Day",
+      "url": "https://nationaltoday.com/national-park-service-founders-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/01/National-Park-Service-Founders-Day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "National Secondhand Wardrobe Day",
+      "url": "https://nationaltoday.com/national-secondhand-wardrobe-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Secondhand-Wardrobe.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "National Whiskey Sour Day",
+      "url": "https://nationaltoday.com/national-whiskey-sour-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/national-whiskey-sour-day.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    },
+    {
+      "name": "Uruguay Independence Day",
+      "url": "https://nationaltoday.com/uruguay-independence-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/30-Uruguay-Day-of-Cultural-Diversity-Day-of-the-Races.jpg",
+      "weekday": "TUE",
+      "month_day": "AUG 25"
+    }
+  ]
+}
