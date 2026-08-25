@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-26",
+  "label": "Wednesday, August 26, 2026",
+  "weekday": "WED",
+  "month_day": "AUG 26",
+  "source": "https://nationaltoday.com/august-26/",
+  "count": 7,
+  "holidays": [
+    {
+      "name": "National Dog Day",
+      "url": "https://nationaltoday.com/national-dog-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/08/Dog.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "National Cherry Popsicle Day",
+      "url": "https://nationaltoday.com/national-cherry-popsicle-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/National-Cherry-Popsicle-Day-1.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "National Day of Repentance",
+      "url": "https://nationaltoday.com/national-day-of-repentance/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Day-of-Repentance.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "National Spark the World Day",
+      "url": "https://nationaltoday.com/national-spark-the-world-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Spark-the-World-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "National Toilet Paper Day",
+      "url": "https://nationaltoday.com/national-toilet-paper-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Toilet-Paper-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "National WebMistress Day",
+      "url": "https://nationaltoday.com/national-webmistress-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-WebMistress-Day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    },
+    {
+      "name": "Women\u2019s Equality Day",
+      "url": "https://nationaltoday.com/womens-equality-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/04/womens-equality-day.jpg",
+      "weekday": "WED",
+      "month_day": "AUG 26"
+    }
+  ]
+}
