@@ -1,92 +1,12 @@
 {
-  "scraped_at": "Aug 30, 2026 \u00b7 10:50 AM UTC",
-  "today": "2026-08-30",
+  "scraped_at": "Aug 31, 2026 \u00b7 12:01 PM UTC",
+  "today": "2026-08-31",
   "order": [
-    "2026-08-29",
     "2026-08-30",
-    "2026-08-31"
+    "2026-08-31",
+    "2026-09-01"
   ],
   "days": {
-    "2026-08-29": {
-      "date": "2026-08-29",
-      "label": "Saturday, August 29, 2026",
-      "weekday": "SAT",
-      "month_day": "AUG 29",
-      "source": "https://nationaltoday.com/august-29/",
-      "count": 10,
-      "holidays": [
-        {
-          "name": "National Lemon Juice Day",
-          "url": "https://nationaltoday.com/national-lemon-juice-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/08/national-lemon-juice-day.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "According to Hoyle Day",
-          "url": "https://nationaltoday.com/according-to-hoyle-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/According-to-Hoyle-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "Anniversary of The Slovak National Uprising",
-          "url": "https://nationaltoday.com/anniversary-of-the-slovak-national-uprising/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Slovak-National-Uprising-Day-Anniversary.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "Founding Anniversary of the Senate",
-          "url": "https://nationaltoday.com/founding-anniversary-of-the-senate/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/13-Founding-Anniversary-of-the-Senate.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "Individual Rights Day",
-          "url": "https://nationaltoday.com/individual-rights-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Individual-Rights-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "International Day against Nuclear Tests",
-          "url": "https://nationaltoday.com/international-day-against-nuclear-tests/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/International-Day-against-Nuclear-Tests.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "More Herbs, Less Salt Day",
-          "url": "https://nationaltoday.com/more-herbs-less-salt-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/More-Herbs-Less-Salt-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "National Chop Suey Day",
-          "url": "https://nationaltoday.com/national-chop-suey-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Chop-Suey-Day.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "National Sports Day",
-          "url": "https://nationaltoday.com/national-sports-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-25-min-1.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        },
-        {
-          "name": "Pride Cymru",
-          "url": "https://nationaltoday.com/pride-cymru/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/NATIONAL-LGBT-HISTORY-MONTH.jpg",
-          "weekday": "SAT",
-          "month_day": "AUG 29"
-        }
-      ]
-    },
     "2026-08-30": {
       "date": "2026-08-30",
       "label": "Sunday, August 30, 2026",
@@ -349,6 +269,142 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2020/08/distance-learning.jpg",
           "weekday": "MON",
           "month_day": "AUG 31"
+        }
+      ]
+    },
+    "2026-09-01": {
+      "date": "2026-09-01",
+      "label": "Tuesday, September 1, 2026",
+      "weekday": "TUE",
+      "month_day": "SEP 1",
+      "source": "https://nationaltoday.com/september-1/",
+      "count": 18,
+      "holidays": [
+        {
+          "name": "American Chess Day",
+          "url": "https://nationaltoday.com/american-chess-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/american-chess-day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Acne Positivity Day",
+          "url": "https://nationaltoday.com/acne-positivity-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Acne-Positivity-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Building and Code Staff Appreciation Day",
+          "url": "https://nationaltoday.com/building-and-code-staff-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/shutterstock_1378142267-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Cherry Popover Day",
+          "url": "https://nationaltoday.com/cherry-popover-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Cherry-Popover-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Chicken Boy Day",
+          "url": "https://nationaltoday.com/chicken-boy-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Chicken-Boy-Day-1.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Emma M Nutt Day",
+          "url": "https://nationaltoday.com/emma-m-nutt-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568132-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Ginger Cat Appreciation Day",
+          "url": "https://nationaltoday.com/ginger-cat-appreciation-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Ginger-Cat.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "National Child Identity Theft Awareness Day",
+          "url": "https://nationaltoday.com/national-child-identity-theft-awareness-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Child-Identity-Theft-Awareness-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "National Little Black Dress Day",
+          "url": "https://nationaltoday.com/national-little-black-dress-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568176-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "National Monterey County Fair Day",
+          "url": "https://nationaltoday.com/national-monterey-county-fair-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568323-min.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "National No Rhyme Nor Reason Day",
+          "url": "https://nationaltoday.com/national-no-rhyme-nor-reason-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-No-Rhyme-Nor-Reason-Day-1.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "National Tofu Day",
+          "url": "https://nationaltoday.com/national-tofu-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/9-National-Tofu-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Pink Cadillac Day",
+          "url": "https://nationaltoday.com/pink-cadillac-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Pink-Cadillac-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Slovakia Constitution Day",
+          "url": "https://nationaltoday.com/slovakia-constitution-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Acne-Positivity-Day-1.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Uzbekistan Independence Day",
+          "url": "https://nationaltoday.com/uzbekistan-independence-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/9-Uzbekistan-Independence-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "Wattle Day",
+          "url": "https://nationaltoday.com/wattle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Wattle-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "West Indian Day Parade",
+          "url": "https://nationaltoday.com/west-indian-day-parade/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/West-Indian.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
+        },
+        {
+          "name": "World Letter Writing Day",
+          "url": "https://nationaltoday.com/world-letter-writing-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Letter-Writing-Day.jpg",
+          "weekday": "TUE",
+          "month_day": "SEP 01"
         }
       ]
     }
