@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-02",
+  "label": "Wednesday, September 2, 2026",
+  "weekday": "WED",
+  "month_day": "SEP 2",
+  "source": "https://nationaltoday.com/september-2/",
+  "count": 13,
+  "holidays": [
+    {
+      "name": "Labor Day",
+      "url": "https://nationaltoday.com/labor-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Telephone Tuesday",
+      "url": "https://nationaltoday.com/telephone-tuesday/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Telephone-Tuesday-1.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Bison-ten Yell Day",
+      "url": "https://nationaltoday.com/bison-ten-yell-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/bision.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Calendar Adjustment Day",
+      "url": "https://nationaltoday.com/calendar-adjustment-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Calendar-Adjustment-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Ceuta Day",
+      "url": "https://nationaltoday.com/ceuta-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Ceuta-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Global Talent Acquisition Day",
+      "url": "https://nationaltoday.com/global-talent-acquisition-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Global-Talent-Acquisition-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Independence Day of Vietnam",
+      "url": "https://nationaltoday.com/independence-day-of-vietnam/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Day-of-Vietnam.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "National Blueberry Popsicle Day",
+      "url": "https://nationaltoday.com/national-blueberry-popsicle-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Blueberry-Popsicle-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "National Live Fearless Day",
+      "url": "https://nationaltoday.com/national-live-fearless-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/09/13-National-Live-Fearless-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Pierce Your Ears Day",
+      "url": "https://nationaltoday.com/pierce-your-ears-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Pierce-Your-Ears-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "Spalding Baseball Day",
+      "url": "https://nationaltoday.com/spalding-baseball-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Spalding-Baseball-Day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "VJ Day",
+      "url": "https://nationaltoday.com/vj-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/vj-day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    },
+    {
+      "name": "World Coconut Day",
+      "url": "https://nationaltoday.com/world-coconut-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/world-coconut-day.jpg",
+      "weekday": "WED",
+      "month_day": "SEP 02"
+    }
+  ]
+}
