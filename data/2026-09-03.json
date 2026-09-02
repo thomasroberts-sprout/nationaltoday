@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-03",
+  "label": "Thursday, September 3, 2026",
+  "weekday": "THU",
+  "month_day": "SEP 3",
+  "source": "https://nationaltoday.com/september-3/",
+  "count": 7,
+  "holidays": [
+    {
+      "name": "Skyscraper Day",
+      "url": "https://nationaltoday.com/skyscraper-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Skyscraper.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "Foundation Day in San Marino",
+      "url": "https://nationaltoday.com/foundation-day-in-san-marino/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Foundation-Day-in-San-Marino.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "International Cabernet Day",
+      "url": "https://nationaltoday.com/international-cabernet-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/International-Cabernet-Day.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "Merchant Navy Day",
+      "url": "https://nationaltoday.com/merchant-navy-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Merchant-Navy-Day.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "National Welsh Rarebit Day",
+      "url": "https://nationaltoday.com/national-welsh-rarebit-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Welsh-Rarebit.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "US Bowling League Day",
+      "url": "https://nationaltoday.com/us-bowling-league-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/US-Bowling-League-Day.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    },
+    {
+      "name": "Yamashita Surrender Day",
+      "url": "https://nationaltoday.com/yamashita-surrender-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Yamashita-Surrender-Day.jpg",
+      "weekday": "THU",
+      "month_day": "SEP 03"
+    }
+  ]
+}
