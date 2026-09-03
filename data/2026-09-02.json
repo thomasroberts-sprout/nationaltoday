@@ -4,22 +4,8 @@
   "weekday": "WED",
   "month_day": "SEP 2",
   "source": "https://nationaltoday.com/september-2/",
-  "count": 13,
+  "count": 11,
   "holidays": [
-    {
-      "name": "Labor Day",
-      "url": "https://nationaltoday.com/labor-day/",
-      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg",
-      "weekday": "WED",
-      "month_day": "SEP 02"
-    },
-    {
-      "name": "Telephone Tuesday",
-      "url": "https://nationaltoday.com/telephone-tuesday/",
-      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Telephone-Tuesday-1.jpg",
-      "weekday": "WED",
-      "month_day": "SEP 02"
-    },
     {
       "name": "Bison-ten Yell Day",
       "url": "https://nationaltoday.com/bison-ten-yell-day/",

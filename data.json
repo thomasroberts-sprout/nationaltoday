@@ -1,170 +1,20 @@
 {
-  "scraped_at": "Sep 2, 2026 \u00b7 10:05 AM UTC",
-  "today": "2026-09-02",
+  "scraped_at": "Sep 3, 2026 \u00b7 10:16 AM UTC",
+  "today": "2026-09-03",
   "order": [
-    "2026-09-01",
     "2026-09-02",
-    "2026-09-03"
+    "2026-09-03",
+    "2026-09-04"
   ],
   "days": {
-    "2026-09-01": {
-      "date": "2026-09-01",
-      "label": "Tuesday, September 1, 2026",
-      "weekday": "TUE",
-      "month_day": "SEP 1",
-      "source": "https://nationaltoday.com/september-1/",
-      "count": 18,
-      "holidays": [
-        {
-          "name": "American Chess Day",
-          "url": "https://nationaltoday.com/american-chess-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/american-chess-day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Acne Positivity Day",
-          "url": "https://nationaltoday.com/acne-positivity-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Acne-Positivity-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Building and Code Staff Appreciation Day",
-          "url": "https://nationaltoday.com/building-and-code-staff-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/shutterstock_1378142267-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Cherry Popover Day",
-          "url": "https://nationaltoday.com/cherry-popover-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Cherry-Popover-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Chicken Boy Day",
-          "url": "https://nationaltoday.com/chicken-boy-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Chicken-Boy-Day-1.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Emma M Nutt Day",
-          "url": "https://nationaltoday.com/emma-m-nutt-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568132-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Ginger Cat Appreciation Day",
-          "url": "https://nationaltoday.com/ginger-cat-appreciation-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Ginger-Cat.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "National Child Identity Theft Awareness Day",
-          "url": "https://nationaltoday.com/national-child-identity-theft-awareness-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Child-Identity-Theft-Awareness-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "National Little Black Dress Day",
-          "url": "https://nationaltoday.com/national-little-black-dress-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568176-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "National Monterey County Fair Day",
-          "url": "https://nationaltoday.com/national-monterey-county-fair-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/09/4568323-min.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "National No Rhyme Nor Reason Day",
-          "url": "https://nationaltoday.com/national-no-rhyme-nor-reason-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-No-Rhyme-Nor-Reason-Day-1.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "National Tofu Day",
-          "url": "https://nationaltoday.com/national-tofu-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/9-National-Tofu-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Pink Cadillac Day",
-          "url": "https://nationaltoday.com/pink-cadillac-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Pink-Cadillac-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Slovakia Constitution Day",
-          "url": "https://nationaltoday.com/slovakia-constitution-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Acne-Positivity-Day-1.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Uzbekistan Independence Day",
-          "url": "https://nationaltoday.com/uzbekistan-independence-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/9-Uzbekistan-Independence-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "Wattle Day",
-          "url": "https://nationaltoday.com/wattle-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Wattle-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "West Indian Day Parade",
-          "url": "https://nationaltoday.com/west-indian-day-parade/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/West-Indian.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        },
-        {
-          "name": "World Letter Writing Day",
-          "url": "https://nationaltoday.com/world-letter-writing-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2021/09/World-Letter-Writing-Day.jpg",
-          "weekday": "TUE",
-          "month_day": "SEP 01"
-        }
-      ]
-    },
     "2026-09-02": {
       "date": "2026-09-02",
       "label": "Wednesday, September 2, 2026",
       "weekday": "WED",
       "month_day": "SEP 2",
       "source": "https://nationaltoday.com/september-2/",
-      "count": 13,
+      "count": 11,
       "holidays": [
-        {
-          "name": "Labor Day",
-          "url": "https://nationaltoday.com/labor-day/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 02"
-        },
-        {
-          "name": "Telephone Tuesday",
-          "url": "https://nationaltoday.com/telephone-tuesday/",
-          "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Telephone-Tuesday-1.jpg",
-          "weekday": "WED",
-          "month_day": "SEP 02"
-        },
         {
           "name": "Bison-ten Yell Day",
           "url": "https://nationaltoday.com/bison-ten-yell-day/",
@@ -300,6 +150,86 @@
           "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Yamashita-Surrender-Day.jpg",
           "weekday": "THU",
           "month_day": "SEP 03"
+        }
+      ]
+    },
+    "2026-09-04": {
+      "date": "2026-09-04",
+      "label": "Friday, September 4, 2026",
+      "weekday": "FRI",
+      "month_day": "SEP 4",
+      "source": "https://nationaltoday.com/september-4/",
+      "count": 10,
+      "holidays": [
+        {
+          "name": "National Wildlife Day",
+          "url": "https://nationaltoday.com/national-wildlife-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/02/national-wildlife-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "Bring Your Manners To Work Day",
+          "url": "https://nationaltoday.com/bring-your-manners-to-work-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Bring-Your-Manners-To-Work-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "College Colors Day",
+          "url": "https://nationaltoday.com/college-colors-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2019/09/college-colors-day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "Eat an Extra Dessert Day",
+          "url": "https://nationaltoday.com/eat-an-extra-dessert-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/Eat-an-Extra-Dessert-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "Janmashtami",
+          "url": "https://nationaltoday.com/janmashtami/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-46-min-1.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "National Chianti Day",
+          "url": "https://nationaltoday.com/national-chianti-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Chianti-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "National Doodle Day",
+          "url": "https://nationaltoday.com/national-doodle-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Doodle-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "National Food Bank Day",
+          "url": "https://nationaltoday.com/national-food-bank-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Food-Bank-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "National Macadamia Nut Day",
+          "url": "https://nationaltoday.com/national-macadamia-nut-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-Macadamia-Nut-Day.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
+        },
+        {
+          "name": "Umhlanga Reed Dance Day",
+          "url": "https://nationaltoday.com/umhlanga-reed-dance-day/",
+          "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568043-min.jpg",
+          "weekday": "FRI",
+          "month_day": "SEP 04"
         }
       ]
     }

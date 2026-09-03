@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-04",
+  "label": "Friday, September 4, 2026",
+  "weekday": "FRI",
+  "month_day": "SEP 4",
+  "source": "https://nationaltoday.com/september-4/",
+  "count": 10,
+  "holidays": [
+    {
+      "name": "National Wildlife Day",
+      "url": "https://nationaltoday.com/national-wildlife-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/02/national-wildlife-day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "Bring Your Manners To Work Day",
+      "url": "https://nationaltoday.com/bring-your-manners-to-work-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/11/Bring-Your-Manners-To-Work-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "College Colors Day",
+      "url": "https://nationaltoday.com/college-colors-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2019/09/college-colors-day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "Eat an Extra Dessert Day",
+      "url": "https://nationaltoday.com/eat-an-extra-dessert-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/10/Eat-an-Extra-Dessert-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "Janmashtami",
+      "url": "https://nationaltoday.com/janmashtami/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Frame-46-min-1.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "National Chianti Day",
+      "url": "https://nationaltoday.com/national-chianti-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/National-Chianti-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "National Doodle Day",
+      "url": "https://nationaltoday.com/national-doodle-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/12/Doodle-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "National Food Bank Day",
+      "url": "https://nationaltoday.com/national-food-bank-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/07/National-Food-Bank-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "National Macadamia Nut Day",
+      "url": "https://nationaltoday.com/national-macadamia-nut-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/10/National-Macadamia-Nut-Day.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    },
+    {
+      "name": "Umhlanga Reed Dance Day",
+      "url": "https://nationaltoday.com/umhlanga-reed-dance-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/08/4568043-min.jpg",
+      "weekday": "FRI",
+      "month_day": "SEP 04"
+    }
+  ]
+}
