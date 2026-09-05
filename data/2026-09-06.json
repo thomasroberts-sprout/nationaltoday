@@ -1,0 +1,59 @@
+{
+  "date": "2026-09-06",
+  "label": "Sunday, September 6, 2026",
+  "weekday": "SUN",
+  "month_day": "SEP 6",
+  "source": "https://nationaltoday.com/september-6/",
+  "count": 7,
+  "holidays": [
+    {
+      "name": "National Read a Book Day",
+      "url": "https://nationaltoday.com/national-read-a-book-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2020/09/Read-a-Book.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "Bonaire Flag Day",
+      "url": "https://nationaltoday.com/bonaire-flag-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Bonaire-Flag-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "Fight Procrastination Day",
+      "url": "https://nationaltoday.com/fight-procrastination-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/Fight-Procrastination-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "Great Egg Toss Day",
+      "url": "https://nationaltoday.com/great-egg-toss-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/01/Great-Egg-Toss-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "National Coffee Ice Cream Day",
+      "url": "https://nationaltoday.com/national-coffee-ice-cream-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/09/Coffee-Ice-Cream.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "National Pet Rock Day",
+      "url": "https://nationaltoday.com/national-pet-rock-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2021/08/National-Pet-Rock-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    },
+    {
+      "name": "Swaziland Independence Day",
+      "url": "https://nationaltoday.com/swaziland-independence-day/",
+      "image": "https://nationaltoday.com/wp-content/uploads/2022/06/Swaziland-Independence-Day.jpg",
+      "weekday": "SUN",
+      "month_day": "SEP 06"
+    }
+  ]
+}
